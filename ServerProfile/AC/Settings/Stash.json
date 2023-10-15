@@ -1,0 +1,357 @@
+{
+    "m_Enable": 0,
+    "m_Logging": 1,
+    "m_Stashs": [
+        {
+            "m_Name": "stash-01",
+            "m_Container": "AC_Stash_Box",
+            "m_TimeInspect": 10,
+            "m_ReloadInspect": 600,
+            "m_RewardPools": [
+                "supplies"
+            ],
+            "m_Quantity": 1,
+            "m_Positions": [
+                {
+                    "m_Position": {
+                        "m_X": 4767.1142578125,
+                        "m_Y": 339.28759765625,
+                        "m_Z": 10374.0400390625
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                },
+                {
+                    "m_Position": {
+                        "m_X": 4760.412109375,
+                        "m_Y": 339.2930908203125,
+                        "m_Z": 10370.296875
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                },
+                {
+                    "m_Position": {
+                        "m_X": 4750.93359375,
+                        "m_Y": 339.2930908203125,
+                        "m_Z": 10364.6015625
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "m_Name": "stash-02",
+            "m_Container": "AC_Stash_Box_Multi",
+            "m_TimeInspect": 10,
+            "m_ReloadInspect": 600,
+            "m_RewardPools": [],
+            "m_Quantity": 1,
+            "m_Positions": [
+                {
+                    "m_Position": {
+                        "m_X": 4770.08642578125,
+                        "m_Y": 339.0552978515625,
+                        "m_Z": 10368.599609375
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                },
+                {
+                    "m_Position": {
+                        "m_X": 4759.28173828125,
+                        "m_Y": 339.06304931640627,
+                        "m_Z": 10357.615234375
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "m_Name": "stash-03",
+            "m_Container": "AC_Stash_WoodenCrate_3x",
+            "m_TimeInspect": 10,
+            "m_ReloadInspect": 600,
+            "m_RewardPools": [
+                "weapons"
+            ],
+            "m_Quantity": 1,
+            "m_Positions": [
+                {
+                    "m_Position": {
+                        "m_X": 4774.0908203125,
+                        "m_Y": 339.70062255859377,
+                        "m_Z": 10353.099609375
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                },
+                {
+                    "m_Position": {
+                        "m_X": 4766.435546875,
+                        "m_Y": 339.7008361816406,
+                        "m_Z": 10347.1650390625
+                    },
+                    "m_Orientation": {
+                        "m_Yaw": 0.0,
+                        "m_Pitch": 0.0,
+                        "m_Roll": 0.0
+                    }
+                }
+            ]
+        }
+    ],
+    "m_RewardPools": [
+        {
+            "m_Name": "supplies",
+            "m_QuantityMax": 10,
+            "m_Items": [
+                {
+                    "m_Item": "Apple",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BandageDressing",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "WaterBottle",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "VitaminBottle",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Tomato",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PainkillerTablets",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "FirstAidKit",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Rice",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "CharcoalTablets",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SpaghettiCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Canteen",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 4,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TetracyclineAntibiotics",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BakedBeansCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Heatpack",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TacticalBaconCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Name": "weapons",
+            "m_QuantityMax": 10,
+            "m_Items": [
+                {
+                    "m_Item": "Battery9V",
+                    "m_Chance": 90,
+                    "m_StackMin": 75,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M68Optic",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M68Optic",
+                    "m_Chance": 25,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": [
+                        "Battery9V"
+                    ]
+                },
+                {
+                    "m_Item": "Mag_STANAG_30Rnd",
+                    "m_Chance": 75,
+                    "m_StackMin": 50,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_AKM_30Rnd",
+                    "m_Chance": 75,
+                    "m_StackMin": 50,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Mag_FAL_20Rnd",
+                    "m_Chance": 75,
+                    "m_StackMin": 50,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4_RISHndgrd",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AK_WoodHndgrd",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4_OEBttstck",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AK_WoodBttstck",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Fal_FoldingBttstck",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4_Suppressor",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AK_Suppressor",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "M4A1",
+                    "m_Chance": 40,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AKM",
+                    "m_Chance": 30,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "FAL",
+                    "m_Chance": 20,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

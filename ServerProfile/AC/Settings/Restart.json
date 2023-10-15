@@ -1,0 +1,43 @@
+{
+    "m_Enable": 1,
+    "m_Schedules": [
+        {
+            "m_Hour": 23,
+            "m_Minute": 1,
+            "m_Active": 1
+        },
+        {
+            "m_Hour": 5,
+            "m_Minute": 1,
+            "m_Active": 1
+        },
+        {
+            "m_Hour": 11,
+            "m_Minute": 1,
+            "m_Active": 1
+        },
+        {
+            "m_Hour": 17,
+            "m_Minute": 1,
+            "m_Active": 1
+        }
+    ],
+    "m_Await": 2,
+    "m_Reason": "O servidor está reiniciando. Voltamos já",
+    "m_Notification": "O servidor será reiniciado em %TimeMinutes% minutos.",
+    "m_Interval": [
+        30,
+        15,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+    ],
+    "m_Webhook": "https://discord.com/api/webhooks/1083390026102083616/wYHy8r688kriPXiYjfHP3qi-G0X4twnobN426-5qp3MmxWk5BFtvsDkObNehB6bOptiz"
+}

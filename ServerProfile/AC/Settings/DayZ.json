@@ -1,0 +1,15 @@
+{
+    "m_EnableLeaning": 1,
+    "m_EnableVehicle3PP": 1,
+    "m_DisableCarDamage": 1,
+    "m_DisableCrewDamage": 1,
+    "m_DisableBuildCollision": 1,
+    "m_EnableInventorySwimming": 1,
+    "m_DisableDofEffect": 1,
+    "m_DisableDropshot": 0,
+    "m_DisableLiftWeapon": 0,
+    "m_DisablePlayerRoll": 0,
+    "m_DisablePlayerProne": 0,
+    "m_DisableWalkRun": 0,
+    "m_SetMaxPlayerStat": 0
+}

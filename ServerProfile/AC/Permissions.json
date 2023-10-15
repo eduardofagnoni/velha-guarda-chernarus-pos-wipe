@@ -1,0 +1,33 @@
+{
+    "m_Groups": [
+        {
+            "m_Name": "superadmin",
+            "m_ForceName": 0,
+            "m_Users": [
+                {
+                    "m_Name": "[ADM] Fagnoni",
+                    "m_Steam": "76561198363861269"
+                }
+            ],
+            "m_Permissions": [
+                "root"
+            ]
+        },
+        {
+            "m_Name": "superadmin",
+            "m_ForceName": 0,
+            "m_Users": [
+                {
+                    "m_Name": "[ADM] Tuty",
+                    "m_Steam": "76561199350150099"
+                }
+            ],
+            "m_Permissions": [
+                "root"
+            ]
+        }
+    ],
+    "m_Everyone": [
+        "command.welcomepack"
+    ]
+}

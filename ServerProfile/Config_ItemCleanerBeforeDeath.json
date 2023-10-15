@@ -1,0 +1,26 @@
+{
+    "EnabledDebugLogs": 0,
+    "DeleteItemList_InAllPlayers": 1,
+    "DeleteItemList_InListPlayers": 0,
+    "DropAllItemsWhereIsNoListItemsInActionDeletingListItem": 0,
+    "DeleteDeadBodyWithItemList_InAllPlayers": 0,
+    "DeleteDeadBodyWithItemList_InListPlayers": 0,
+    "DeleteAllDeadBodyFromSteam64IDListPlayers": 0,
+    "ItemList": [
+        "KeyCardUser1",
+        "KeyCardUser2",
+        "KeyCardUser3",
+        "KeyCardUser4",
+        "KeyCardUser5",
+        "KeyCardUser6",
+        "KeyCardUser7",
+        "KeyCardUser8",
+        "KeyCardUser9",
+        "KeyCardUser10"
+    ],
+    "Steam64IDList": [
+        "765...",
+        "765...",
+        "765..."
+    ]
+}

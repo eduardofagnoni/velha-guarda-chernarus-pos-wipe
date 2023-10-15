@@ -1,0 +1,11 @@
+{
+    "m_Enable": 1,
+    "m_Messages": [
+        {
+            "m_Message": "Estamos com %PlayersCount% jogadores online agora.",
+            "m_Await": 30,
+            "m_Interval": 600,
+            "m_Notification": 1
+        }
+    ]
+}

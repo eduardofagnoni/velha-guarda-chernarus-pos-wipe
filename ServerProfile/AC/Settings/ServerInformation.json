@@ -1,0 +1,42 @@
+{
+    "m_Enable": 1,
+    "m_ServerLogo": 1,
+    "m_Description": "BEM VINDO AO SERVIDOR VELHA GUARDA",
+    "m_Tabs": [
+        {
+            "m_TabLabel": "LEIA COM ATENÇÃO",
+            "m_TabLines": [
+                "NÃO MATE OUTRO JOGADOR.",
+                "NÃO ATIRE NOS VEICULOS.",
+                "PROIBIDO CONSTRUIR EM CIDADES.",
+                "PARA REGISTRAR UMA BASE FAVOR SOLICITAR NO DISCORD.",
+                "NÃO MEXA NO QUE NÃO É SEU."
+            ]
+        },
+        {
+            "m_TabLabel": "DONATE",
+            "m_TabLines": [
+                "ADQUIRA OS ITENS MAIS DESEJADOS NO SERVIDOR.",
+                "ARMAS: GAUZ, ALIGATOR E ETC.",
+                "HELICÓPITEROS.",
+                "MOCHILAS COM 300 E 1000 DE ESPAÇO.",
+                "ROUPAS EXCLUSIVAS.",
+                "VEICULOS: CARRO, CAMINHÃO OU TANQUES DE GUERRA."
+            ]
+        }
+    ],
+    "m_Buttons": [
+        {
+            "m_ButtonText": "DISCORD",
+            "m_ButtonLink": "https://discord.gg/K4jjjXeYWg"
+        },
+        {
+            "m_ButtonText": "REGISTRAR SUA BASE",
+            "m_ButtonLink": "https://discord.gg/y9HagQWGna"
+        },
+        {
+            "m_ButtonText": "SUPORTE",
+            "m_ButtonLink": "https://discord.gg/vBKjzBWZ8C"
+        }
+    ]
+}

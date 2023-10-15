@@ -1,0 +1,41 @@
+{
+    "m_Enable": 0,
+    "m_Logging": 1,
+    "m_Chance": 20,
+    "m_ClientOnly": 0,
+    "m_ChangeTime": 120,
+    "m_DefaultFog": 0,
+    "m_DefaultRain": 0,
+    "m_DefaultOvercast": 0,
+    "m_DefaultWind": 0,
+    "m_IntervalMin": 600,
+    "m_IntervalMax": 900,
+    "m_Weathers": [
+        {
+            "m_Name": "mixed",
+            "m_FogMin": 10,
+            "m_FogMax": 50,
+            "m_OvercastMin": 10,
+            "m_OvercastMax": 50,
+            "m_RainMin": 10,
+            "m_RainMax": 50,
+            "m_WindMin": 0,
+            "m_WindMax": 5,
+            "m_DurationMin": 300,
+            "m_DurationMax": 600
+        },
+        {
+            "m_Name": "storm",
+            "m_FogMin": 10,
+            "m_FogMax": 50,
+            "m_OvercastMin": 95,
+            "m_OvercastMax": 100,
+            "m_RainMin": 95,
+            "m_RainMax": 100,
+            "m_WindMin": 5,
+            "m_WindMax": 10,
+            "m_DurationMin": 300,
+            "m_DurationMax": 600
+        }
+    ]
+}
