@@ -24,19 +24,26 @@
             "DrawOnMap": 0
         },
         {
-            "Name": "Área Militar",
+            "Name": "Tikhizyaliv Military",
             "X": 756.145142,
             "Z": 1878.376099,
             "R": 1000.0,
             "DrawOnMap": 0
         },
         {
-            "Name": "Área Militar",
+            "Name": "Pavlovo Military Base",
             "X": 2110.387939,
             "Z": 3431.643555,
             "R": 1000.0,
             "DrawOnMap": 0
         },
+        {
+            "Name": "Topolka Military",
+            "X": 10229.375977,
+            "Z": 4018.157715,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },        
         {
             "Name": "SafeZone Velha Guarda",
             "X": 8085.521484375,
