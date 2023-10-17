@@ -15,18 +15,15 @@ IF %ERRORLEVEL% == 0 GOTO LOOP
 SET /a LOOPS=0
 
 ::@Community-Online-Tools;
-::-mod=@AdvancedBanking;@Airdrop-Upgraded;@AntiContainerStacking;@ArrakisTraderSigns;@BaseBuildingPlus;@BasicSpawnSelect;@BBPItemPack;@Better Inspect;@BuilderItems;@BuildEverywhere;@CannabisPlus;@CARs;@Collectable Items;@Creatures Of The Night;@DayZ Editor Loader;@DNA Keycards;@DrugsPLUS;@Erapulsar_Zombies;@FS(FIDOvSTALKER);@Forward Operator Gear;@gebsfish;@LIGHTS;@LoftDModGR Clothes Pack;@MagazineLoading;@MMG - Mightys Military Gear;@MMG Base Storage;@MuchCarKey;@MuchStuffPack;@No Glove Or Shoe Damage;@PokemonAlbum;@PristineRepair;@PvZmoD_CustomisableZombies;@Quadlock's Pack;@RedFalcon Flight System Heliz;@DayZ-Expansion-Core;@DayZ-Expansion-Navigation;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@SNAFU Weapons;@Radio;@Crocos Quadbike;@BulletStacksPlusPlus;@DayZ-Dog;@WindstridesClothingPack;@RaG_Liquid_Framework;@RaG_BeeHive;@CBD Halo Armour;@Solar Panel Power System;@RevGuns;@StaticBaseEFWeb;@SpawnerBubaku;@Velha_Guarda_PVE_Chernarus;@Z_Predator;@Z_Alien
+::-mod=@Airdrop-Upgraded;@AntiContainerStacking;@ArrakisTraderSigns;@BaseBuildingPlus;@BasicSpawnSelect;@BBPItemPack;@Better Inspect;@BuilderItems;@BuildEverywhere;@CannabisPlus;@CARs;@Collectable Items;@Creatures Of The Night;@DayZ Editor Loader;@DNA Keycards;@DrugsPLUS;@Erapulsar_Zombies;@FS(FIDOvSTALKER);@Forward Operator Gear;@gebsfish;@LIGHTS;@LoftDModGR Clothes Pack;@MagazineLoading;@MMG - Mightys Military Gear;@MMG Base Storage;@MuchCarKey;@MuchStuffPack;@No Glove Or Shoe Damage;@PokemonAlbum;@PristineRepair;@PvZmoD_CustomisableZombies;@Quadlock's Pack;@RedFalcon Flight System Heliz;@DayZ-Expansion-Core;@DayZ-Expansion-Navigation;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@SNAFU Weapons;@Radio;@Crocos Quadbike;@BulletStacksPlusPlus;@DayZ-Dog;@WindstridesClothingPack;@RaG_Liquid_Framework;@RaG_BeeHive;@CBD Halo Armour;@Solar Panel Power System;@RevGuns;@StaticBaseEFWeb;@SpawnerBubaku;@Velha_Guarda_PVE_Chernarus;@Z_Predator;@Z_Alien
 
 ::@Basic Territories
 ::@Code Lock
 ::@FlipTransport
 ::@Garage
-::@Trader
-::@TraderFixesAndFeatures
-::@PVEZ Reloaded
-::@BetterVendingMachines
+::@Trader;@TraderFixesAndFeatures;@PVEZ Reloaded;@BetterVendingMachines;@AdvancedBanking;@LIGHTS;@PVEZ Reloaded
 
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile "-mod=@CF;@Dabs Framework;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@Basic Territories" -cpuCount=4 -dologs -adminlog -netlog -freezecheck
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile "-mod=@CF;@Dabs Framework;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@Basic Territories;@BurningBarrels;@FlipTransport;@Garage;@GarageFix;@Trader;@TraderFixesAndFeatures;@PVEZ Reloaded;@BetterVendingMachines;@AdvancedBanking;@LIGHTS;@PVEZ Reloaded" -cpuCount=4 -dologs -adminlog -netlog -freezecheck
 ECHO [INFO] Servidor Iniciado em: %DATE%, %TIME%
 SET data2="%DATE%"
 SET time2="%TIME%"
