@@ -5210,10 +5210,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombinationLock">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5223,10 +5223,10 @@
         <usage name="Farm"/>
     </type>
     <type name="CombinationLock4">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12827,10 +12827,10 @@
         <usage name="Town"/>
     </type>
     <type name="MimeMask_Female">
-        <nominal>3</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12839,10 +12839,10 @@
         <usage name="Lunapark"/>
     </type>
     <type name="MimeMask_Male">
-        <nominal>3</nominal>
+        <nominal>13</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19941,10 +19941,10 @@
         <usage name="Village"/>
     </type>
     <type name="XmasLights">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

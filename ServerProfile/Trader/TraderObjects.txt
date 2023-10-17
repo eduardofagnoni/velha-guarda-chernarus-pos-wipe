@@ -11,50 +11,46 @@
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			1
-<TraderMarkerPosition>	8075.628418, 459.197723, 9308.865234
-<TraderMarkerSafezone>	80
-
-<TraderMarker> 			2
 <TraderMarkerPosition>	8079.349121, 459.189545, 9307.896484
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			3
+<TraderMarker> 			2
 <TraderMarkerPosition>	8078.091309, 459.196106, 9309.638672
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			4
+<TraderMarker> 			3
 <TraderMarkerPosition>	8074.234863, 459.209686, 9309.925781
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			5
+<TraderMarker> 			4
 <TraderMarkerPosition>	8071.909180, 459.199249, 9309.383789
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			6
+<TraderMarker> 			5
 <TraderMarkerPosition>	8070.180664, 459.194519, 9311.348633
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			7
+<TraderMarker> 			6
 <TraderMarkerPosition>	8077.508301, 459.205597, 9313.626953
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			8
+<TraderMarker> 			7
 <TraderMarkerPosition>	8068.904785, 459.202545, 9317.020508
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			9
+<TraderMarker> 			8
 <TraderMarkerPosition>	8069.095703, 459.184662, 9320.989258
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			10
+<TraderMarker> 			9
 <TraderMarkerPosition>	10812.345703, 335.837219, 12839.896484
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			11
+<TraderMarker> 			10
 <TraderMarkerPosition>	4086.450928, 379.569122, 11736.596680
 <TraderMarkerSafezone>	80
 
-<TraderMarker> 			12
+<TraderMarker> 			11
 <TraderMarkerPosition>	8101.472656, 458.670868, 9327.210938
 <TraderMarkerSafezone>	80
 <VehicleSpawn>			8106.566895, 458.603241, 9334.253906		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
@@ -87,11 +83,6 @@
 <Object> 			BVM_VendingMachine_clothing			            
 <ObjectPosition>	8074.358887, 459.189331, 9307.281250    		
 <ObjectOrientation>	125.611069, 0.000000, -0.000000			            
-<ObjectAttachment>	NPC_DUMMY 
-
-<Object> 			BVM_VendingMachine_military_clothing			            
-<ObjectPosition>	8075.628418, 459.197723, 9308.865234    		
-<ObjectOrientation>	144.001175, 0.000000, -0.000000			            
 <ObjectAttachment>	NPC_DUMMY 
 
 <Object> 			BVM_VendingMachine_medical			            
