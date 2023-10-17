@@ -1,0 +1,652 @@
+
+		/////////////////////////////////////////////////////////////////////////////////////////////////
+        //                                                                                             //
+        //      Need Help? The Trader Mod has its own Channel on the DayZ Modders Discord Server!      //
+        //                                                                                             //
+        //      Only Singleline Comments work. Don't use Multiline Comments!                           //
+        //      /* THIS COMMENT WILL CRASH THE SERVER! */                                              //
+        //      // THIS COMMENT WORKS!                                                                 //
+        //                                                                                             //
+        /////////////////////////////////////////////////////////////////////////////////////////////////
+
+<CurrencyName> #tm_Reais							// Nome da moeda (usado apenas para o texto no canto superior direito do menu do trader)
+	<Currency> Real_1, 		1						// Nome da classe da moeda, valor do dinheiro da moeda
+	<Currency> Real_2, 		2
+	<Currency> Real_5, 		5
+	<Currency> Real_10, 	10
+	<Currency> Real_20, 	20
+	<Currency> Real_50, 	50
+	<Currency> Real_100, 	100
+	<Currency> Real_200, 	200
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Nome do Trader (o primeiro Trader tem ID = 0, o segundo Trader tem ID = 1, e assim por diante..)
+// Nome da Categoria
+// Item Classname, Quantity, Buyvalue, Sellvalue
+// Quantidade * significa valor máximo; Quantidade V significa Veículo; Quantidade VNK significa Veículo sem Chave; Quantidade M significa Revista;
+// Quantidade W significa Arma; Quantidade S significa Bife de Carne; Quantidade K significa duplicação de chave
+// Buyvalue -1 significa que não pode ser comprado
+// Sellvalue -1 significa que não pode ser vendido
+
+// Ordem dos comerciantes das trades:
+// Roupas 					= 0
+// Roupas Militares         = 1
+// Remédios		            = 2
+// Comidas 					= 3	
+// Armas 					= 4
+// Munição 					= 5
+// Acessórios				= 6
+// Melee					= 7
+// Ferramentas	 			= 8
+// Construção				= 9
+// Caçador 					= 10
+// Contrabandista 			= 11
+// Veiculos					= 12	
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Roupas = 0
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Roupas								
+    											
+    <Category> Camisas
+        Blouse_Blue,                   *,      16,     4
+        Blouse_Green,                  *,      18,     4
+        Blouse_Violet,                 *,      16,     4
+        Blouse_White,                  *,      16,     4
+        ChernarusSportShirt,           *,      25,     6
+        MedicalScrubsShirt_Blue,       *,      20,     5
+        MedicalScrubsShirt_Green,      *,      20,     5
+        MedicalScrubsShirt_White,      *,      20,     5
+        Shirt_BlueCheck,               *,      16,     4
+        Shirt_BlueCheckBright,         *,      16,     4
+        Shirt_GreenCheck,              *,      18,     4
+        Shirt_PlaneBlack,              *,      17,     4
+        Shirt_RedCheck,                *,      16,     4
+        Shirt_WhiteCheck,              *,      16,     4
+        TacticalShirt_Black,           *,      38,     10
+        TacticalShirt_Grey,            *,      36,     10
+        TacticalShirt_Olive,           *,      40,     12
+        TacticalShirt_Tan,             *,      37,     10
+        TelnyashkaShirt,               *,      14,     3
+        TShirt_Beige,                  *,      10,     2
+        TShirt_Black,                  *,      12,     3
+        TShirt_Blue,                   *,       8,     2
+        TShirt_Green,                  *,      12,     3
+        TShirt_Grey,                   *,      10,     2
+        TShirt_OrangeWhiteStripes,     *,       8,     2
+        TShirt_Red,                    *,       8,     2
+        TShirt_RedBlackStripes,        *,       8,     2
+        TShirt_White,                  *,      10,     2
+		
+											
+    <Category> Moletons e suéteres
+        Hoodie_Black,               *,      30,     6
+        Hoodie_Blue,                *,      30,     6
+        Hoodie_Brown,               *,      30,     6
+        Hoodie_DrJ0nes,             *,      30,     6
+        Hoodie_GraffitiTiles,       *,      30,     6
+        Hoodie_Green,               *,      35,     7
+        Hoodie_Grey,                *,      30,     6
+        Hoodie_Red,                 *,      30,     6
+        Sweater_Blue,               *,      20,     5
+        Sweater_Gray,               *,      20,     5
+        Sweater_Green,              *,      25,     6
+        Sweater_Red,                *,      20,     5
+
+    
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Roupas Militares = 1
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+
+
+
+<Trader> Roupas militares
+
+    <Category> Óculos
+		SportGlasses_Orange,	*,		40,		8
+		SportGlasses_Blue,		*,		40,		9
+		SportGlasses_Black,		*,		40,		10
+		SportGlasses_Green,		*,		40,		10
+		ThinFramesGlasses,		*,		40,		10
+		ThickFramesGlasses,		*,		40,		10
+		DesignerGlasses,		*,		30,		10
+		AviatorGlasses,			*,		20,		10
+		TacticalGoggles,		*,		50,		10
+		NVGHeadstrap,			*,		500,	10
+
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Remédios              = 2
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+<Trader> Remédios
+		
+											
+    <Category> Suprimentos médicos       									
+        //Defibrillator,		                *,		35, 		20				
+        //InjectionVial,		                *,		5, 		    2				
+        //Rag,				                    1,		1,		    0		
+        //Syringe,			                    *,		8, 		    5			
+        BandageDressing,		                4,		150,		75				
+        BloodBagEmpty,			                *,		75,		    50			
+        BloodTestKit,			                *,		500,		50
+        DisinfectantSpray,		                *,		500,		250				
+        FirstAidKit,			                *,		1000,		500			
+        MSFCPohuinBottle,		                *,		1500,		750
+        SalineBag,			                    *,		100,		50			
+        StartKitIV,			                    *,		100,		50			
+        Thermometer,			                *,		500,		250			
+											
+    <Category> Medicamentos										
+        CharcoalTablets,		*,		1000,		100
+        DisinfectantAlcohol,	*,		500,		50
+        Epinephrine,			*,		100,		50			
+        Morphine,			    *,		100,		50			
+        PainkillerTablets,		*,		500,		50				
+        PurificationTablets,	*,		250,		50
+        TetracyclineAntibiotics,*,		500,		100
+        VitaminBottle,			*,		1500,		100
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Comidas              = 3
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+<Trader> Consumiveis
+								
+    <Category> Vegetables											
+        Apple,				    *,		50,		25		
+        CaninaBerry,			*,		50,		25			
+        GreenBellPepper,		*,		25,		15				
+        Kiwi,				    *,		25,		15						
+        Pear,				    *,		50,		25		
+        Plum,				    *,		25,		15		
+        Potato,				    *,		25,		15										
+        Pumpkin,			    *,		25,		15			
+        SambucusBerry,			*,		50,		25			
+        Tomato,				    *,		25,		15		
+        Zucchini,			    *,		15,		15			
+        AgaricusMushroom,		*,		25,		15				
+        AmanitaMushroom,		*,		25,		15				
+        AuriculariaMushroom,	*,		25,		15				
+        BoletusMushroom,		*,		25,		15				
+        LactariusMushroom,		*,		25,		15				
+        MacrolepiotaMushroom,	*,		25,		15				
+        PleurotusMushroom,		*,		25,		15        			
+											
+											
+    <Category> Comidas embaladas											
+        BakedBeansCan,			*,		150,		75			
+        BoxCerealCrunchin,		*,		400,		200				
+        Marmalade,			    *,		150,		75			
+        PeachesCan,			    *,		150,		75			
+        PowderedMilk,			*,		250,		125			
+        Rice,				    *,		400,		200		
+        SardinesCan,			*,		100,		50			
+        SpaghettiCan,			*,		150,		75			
+        TacticalBaconCan,		*,		250,		125				
+        TunaCan,			    *,		200,		100
+
+
+
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Armas            = 4
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+
+<Trader> Comerciante de armas
+
+       
+    <Category> Armas secundárias
+		Flaregun,             	W,		100,		100
+		MakarovIJ70,			W,		100,		100
+		Deagle,					W,		135,		100
+		Deagle_Gold,			W,		1000,		500
+		CZ75,					W,		135,		100
+		FNX45,					W,		175,		100
+		Glock19,				W,		300,		100
+		MKII,					W,		320,		100
+		Colt1911,				W,		340,		100
+		Engraved1911,			W,		340,		100
+		Magnum,			        W,		300,		100
+		Longhorn,			    W,		300,		100
+		
+	<Category> Rifles
+		Izh18,					W,		1350,		380
+		Mosin9130,				W,		2000,		380
+		CZ527,					W,		1500,		380
+		Winchester70,			W,		1800,		380
+		SKS,					W,		1000,		380
+		
+	<Category> Espingardas
+		Mp133Shotgun,			W,		500,		380
+		Izh43Shotgun,			W,		900,		380
+		Saiga,					W,		1500,		380
+		
+	<Category> Metralhadoras
+		CZ61,					W,		700,		380
+		UMP45,					W,		800,		380
+		MP5K,					W,		1000,		380
+		AKS74U,					W,		1100,		380
+		PP19,					W,		1100,		380
+		
+	<Category> Rifles de assalto
+		FAL,					W,		1000,	    380
+		AKM,					W,		1500,	    380
+		AK101,					W,		1500,	    380
+		AK74,					W,		1600,	    380
+		M4A1,					W,		1500,	    380
+		M4A1_Black,				W,		1500,	    380
+		M4A1_Green,				W,		1500,	    380
+		AugShort,				W,		1500,	    380
+		Aug,					W,		1500,	    380
+		M16A2,					W,		1500,	    380
+		FAMAS,					W,		1500,	    380
+		
+	<Category> Rifles de precisão
+		VSS,					W,		1600,   	350
+		Scout,					W,		1600,   	350
+		SVD,					W,		2000,   	380
+		ASVAL,					W,		2000,   	380
+		B95,					W,		2000,   	380
+		Repeater,			    W,		2000,   	380
+		CZ550,					W,		1600,   	350
+		CZ527,					W,		1600,   	350
+		CZ61,					W,		1600,   	350
+		CZ75,					W,		1600,   	350
+		Crossbow_Summer,		W,		-1,	        350
+		Crossbow_Wood,			W,		-1,	        350
+		Crossbow_Black,			W,		-1,	        350
+		Crossbow_Autumn,		W,		-1,	        350
+
+	
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Munição            = 5
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+
+<Trader> Munição
+
+	<Category> Munições Vanilla (full stacks)								
+        Ammo_12gaPellets,			*,		300,		50
+        Ammo_12gaSlug,				*,		300,		50
+        Ammo_22,				    *,		50,		    10
+        Ammo_308Win,				*,		500,		100
+        Ammo_308WinTracer,          *,		150,		30
+        Ammo_380,				    *,		50,		    10
+        Ammo_45ACP,				    *,		100,		20
+        Ammo_545x39,				*,		250,		50
+        Ammo_545x39Tracer,			*,		250,		50
+        Ammo_556x45,				*,		400,		80
+        Ammo_556x45Tracer,			*,		400,		80
+        Ammo_762x39,				*,		400,		80
+        Ammo_762x39Tracer,			*,		400,		80
+        Ammo_762x54,				*,		500,		100
+        Ammo_762x54Tracer,			*,		500,		100
+        Ammo_9x19,				    *,		100,		20
+        Ammo_9x39,				    *,		250,		50
+        Ammo_9x39AP,				*,		350,		70
+        // Ao alterar os preços aqui, lembre-se de que os jogadores
+        // pode apenas desempacotar as Ammoboxes e vender a munição separadamente!
+        // Originalmente o preço de compra das Ammoboxes é 20% menor que
+        // comprando munição única. O preço de venda é o mesmo que
+        // vendendo a munição separadamente.
+        AmmoBox_00buck_10Rnd,		*,		-1,		15
+        AmmoBox_12gaSlug_10Rnd,		*,		-1,		15
+        AmmoBox_22_40Rnd,			*,		-1,		5
+        AmmoBox_308Win_20Rnd,		*,		-1,		25
+        AmmoBox_308WinTracer_20Rnd,	*,		-1,		25
+        AmmoBox_380_35rnd,			*,		-1,		5
+        AmmoBox_45ACP_25rnd,		*,		-1,		5
+        AmmoBox_545x39_20Rnd,		*,		-1,		15
+        AmmoBox_545x39Tracer_20Rnd,	*,		-1,		15
+        AmmoBox_556x45_20Rnd,		*,		-1,		20
+        AmmoBox_556x45Tracer_20Rnd,	*,		-1,		20
+        AmmoBox_762x39_20Rnd,		*,		-1,		20
+        AmmoBox_762x39Tracer_20Rnd,	*,		-1,		20
+        AmmoBox_762x54_20Rnd,		*,		-1,		25
+        AmmoBox_762x54Tracer_20Rnd,	*,		-1,		25
+        AmmoBox_9x19_25rnd,			*,		-1,		5
+        AmmoBox_9x39_20Rnd,			*,		-1,		15
+        AmmoBox_9x39AP_20Rnd,		*,		-1,		20
+
+    
+
+
+
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Acessórios            = 6
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+
+<Trader> Acessórios
+
+    <Category> Granadas									
+        F1Grenade,				    W, 		-1,    		400
+        FlashGrenade,				W,		-1,	    	100
+        M67Grenade,				    W, 		-1,	    	400
+        GermanGrenade,				W, 		-1,	    	400
+        M18SmokeGrenade_Green,     	W, 		-1, 		100
+        M18SmokeGrenade_Purple,     W, 		-1, 		100
+        M18SmokeGrenade_Red,        W, 		-1,	    	100
+        M18SmokeGrenade_White,     	W, 		-1,	    	100
+        M18SmokeGrenade_Yellow,    	W, 		-1, 		100
+        MK2Grenade,				    W, 		-1,	    	400
+        RDG2SmokeGrenade_Black,    	W, 		-1,	    	100
+        RDG2SmokeGrenade_White,    	W, 		-1, 		100
+        RGD5Grenade,				W, 		-1,	    	400
+        stielhandgranate_mung,	    W,		-1,	    	400    
+		AP_Smoke_RAINBOW, 			1,		-1,	        300
+		AP_Smoke_MERICA, 			1,		-1,	        300
+		AP_Smoke_CANADA, 			1,		-1,	        300
+		AP_Smoke_BRUIN, 			1,		-1,	        300
+		AP_Smoke_WSS, 				1,		-1,	        300
+		AP_Smoke_PINK, 				1,		-1,	        300
+		AP_Smoke_BLUE, 				1,		-1,	        300
+		AP_Smoke_ORANGE,	 		1,		-1,	        300
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Melee            = 7
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+
+<Trader> Armas Melee
+
+    <Category> Corpo a corpo									
+        BaseballBat,				W,		50,		    10
+        BrassKnuckles_Shiny,		W,		500,		100	
+        CattleProd,				    W,		50,		    10
+        katana_Mung,				W,		1000,	 	250
+        NailedBaseballBat,			W,		100,		20	
+        Pipe,					    W,		50,		    10
+        StunBaton,				    W,		500,		100
+        Sword,				        *,		1000,		100	
+
+    
+    
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Melee            = 8
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Ferramentas
+
+    <Category> Ferramentas (pequenas)											
+        Binoculars,			    *,		30,		    15		
+        CanOpener,			    *,		10,		    4		
+        ChernarusMap,			*,		15,		    5		
+        CombatKnife,			*,		10,		    5		
+        Compass,			    *,		10,		    4	
+        Watch_Montana,          *,      500,        200
+        Hacksaw,			    *,		7,		    3		
+        Hammer,				    *,		7,		    3	
+        HandSaw,			    *,		7,		    3		
+        Hatchet,			    *,		10,		    4		
+        HuntingKnife,			*,		9,		    4		
+        KitchenKnife,			*,		8,		    4		
+        LeatherSewingKit,		*,		5, 		    2			
+        Lockpick,			    *,		20,		    10		
+        Machete,			    *,		12,		    6		
+        OrienteeringCompass,	*,		10,		    4			
+        Pliers,				    *,		4, 		    1	
+        Screwdriver,			*,		3,		    1		
+        SewingKit,			    *,		4, 		    1		
+        SteakKnife,			    *,		9,		    4		
+        WeaponCleaningKit,		*,		8, 		    3			
+        Whetstone,			    *,		5,		    2		
+        Wrench,				    *,		3,		    1	        
+								
+    <Category> Ferramentas (grandes)										
+        Crowbar,			    *,		5,		    3		
+        FirefighterAxe,			*,		30,		    12		
+        LugWrench,			    *,		4,		    1		
+        Pickaxe,			    *,		10,		    4		
+        Shovel,				    *,		6,		    3	
+        SledgeHammer,			*,		12,		    6		
+        WoodAxe,			    *,		20,		    8
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Construção           = 9
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Ferramentas
+
+    <Category> Ferramentas (pequenas)											
+        Binoculars,			    *,		30,		    15		
+        CanOpener,			    *,		10,		    4		
+        ChernarusMap,			*,		15,		    5	
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Caçador            = 10
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Ferramentas
+
+    <Category> Ferramentas (pequenas)											
+        Binoculars,			    *,		30,		    15		
+        CanOpener,			    *,		10,		    4		
+        ChernarusMap,			*,		15,		    5	
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Contrabandista            = 11
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Ferramentas
+
+    <Category> Ferramentas (pequenas)											
+        Binoculars,			    *,		30,		    15		
+        CanOpener,			    *,		10,		    4		
+        ChernarusMap,			*,		15,		    5	
+
+
+
+
+
+
+
+
+//***********************************************************************************************
+//***********************************************************************************************
+//***
+//***
+//***           Veículos            = 12
+//***
+//***
+//***********************************************************************************************
+//***********************************************************************************************
+
+<Trader> Veiculos
+
+    <Category> Veículos vanilha
+		Hatchback_02,			VNK,		150000,		50000
+		Sedan_02_Grey,			VNK,		180000,		50000		
+		OffroadHatchback,		VNK,		180000,		50000
+		Truck_01_Covered,		VNK,		200000,		50000
+		Offroad_02,			    VNK,		200000,		50000
+
+	<Category> Quadbike
+		Croco_QuadBike_Grey,        VNK, 50000, 10000
+		Croco_QuadBike_Yellow,      VNK, 50000, 10000
+		Croco_QuadBike_Green,       VNK, 50000, 10000
+		Croco_QuadBike_Red,         VNK, 50000, 10000
+		Croco_QuadBike_Black,       VNK, 50000, 10000
+
+	<Category> Carros Mods
+		TLC_200,	                VNK,            250000,          80000
+		TLC_200_blue,	            VNK,            250000,          80000
+		TLC_200_red,	            VNK,            250000,          80000		
+		UAZ469_offroad_Red,	        VNK,            300000,          90000
+		UAZ469_offroad_Yellow,	    VNK,            300000,          90000
+		UAZ469_offroad_Blue,	    VNK,            300000,          90000
+		UAZ_3909,	                VNK,            250000,          80000
+		UAZ_3909_blue,	            VNK,            250000,          80000		
+		BMW,	                    VNK,            300000,          90000
+		BMW_black,	                VNK,            300000,          90000
+		BMW_red,	                VNK,            300000,          90000
+		Range_Rover,	            VNK,            400000,          100000
+		Range_Rover_black,          VNK,            400000,          100000
+		Range_Rover_green,	        VNK,            400000,          100000
+
+
+	<Category> Caminhões Mods		
+		ZIL130_green,	            VNK,            500000,          200000
+
+
+	<Category> Peças
+		CarRadiator,			*,		1000,			150
+		CarBattery,				*,		700,			150
+		TruckBattery,			*,		800,			150
+		SparkPlug,				*,		1000,			150
+		GlowPlug,				*,		1100,			150
+		CanisterGasoline,		*,		2500,			500
+
+	<Category> Garagem
+		GarageMod_ParkingMachineKit,		*,      3000,      -1
+		
+    
+
+
+
+
+
+
+
+		
+		
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

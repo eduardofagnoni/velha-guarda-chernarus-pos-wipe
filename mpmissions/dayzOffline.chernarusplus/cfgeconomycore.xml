@@ -34,4 +34,20 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+
+	<!-- Barracas Velha Guarda -->
+	<ce folder="_barracasVelhaGuarda">
+        <file name="typesBarracasVelhaGuarda.xml" type="types"/>
+	</ce>
+
+	<!-- Barrils de fogo -->
+	<ce folder="_barrilsDeFofo">
+        <file name="typesBarrilDeFogo.xml" type="types"/>
+	</ce>
+
+	<!-- Cod Lock -->
+	<ce folder="_codLock">
+        <file name="typesCodLock.xml" type="types"/>
+	</ce>
+
 </economycore>

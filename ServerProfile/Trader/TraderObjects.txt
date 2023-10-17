@@ -1,0 +1,158 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Altar:
+
+// Trader ID
+// Coordinate X, 	Coordinate Y, 	Coordinate Z
+// Safezone Radius
+
+<TraderMarker> 			0 									    
+<TraderMarkerPosition>	8074.358887, 459.189331, 9307.281250 	
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	8075.628418, 459.197723, 9308.865234
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	8079.349121, 459.189545, 9307.896484
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	8078.091309, 459.196106, 9309.638672
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	8074.234863, 459.209686, 9309.925781
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	8071.909180, 459.199249, 9309.383789
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	8070.180664, 459.194519, 9311.348633
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	8077.508301, 459.205597, 9313.626953
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	8068.904785, 459.202545, 9317.020508
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			9
+<TraderMarkerPosition>	8069.095703, 459.184662, 9320.989258
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			10
+<TraderMarkerPosition>	10812.345703, 335.837219, 12839.896484
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			11
+<TraderMarkerPosition>	4086.450928, 379.569122, 11736.596680
+<TraderMarkerSafezone>	80
+
+<TraderMarker> 			12
+<TraderMarkerPosition>	8101.472656, 458.670868, 9327.210938
+<TraderMarkerSafezone>	80
+<VehicleSpawn>			8106.566895, 458.603241, 9334.253906		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-41.990917, -1.063909, 1.609359			    // Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+
+
+
+
+
+
+
+
+
+
+
+// <TraderMarker> 			5
+// <TraderMarkerPosition>	3723.84,	402.012,	5990.04
+// <TraderMarkerSafezone>	30
+// <VehicleSpawn>			3719.71,	402.012,	5994.85		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+// <VehicleSpawnOri>		-42,		0,			0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+// Green Mountain:
+
+<Object> 			BVM_VendingMachine_clothing			            
+<ObjectPosition>	8074.358887, 459.189331, 9307.281250    		
+<ObjectOrientation>	125.611069, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY 
+
+<Object> 			BVM_VendingMachine_military_clothing			            
+<ObjectPosition>	8075.628418, 459.197723, 9308.865234    		
+<ObjectOrientation>	144.001175, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY 
+
+<Object> 			BVM_VendingMachine_medical			            
+<ObjectPosition>	8079.349121, 459.189545, 9307.896484    		
+<ObjectOrientation>	38.951485, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_food			            
+<ObjectPosition>	8078.091309, 459.196106, 9309.638672    		
+<ObjectOrientation>	62.998062, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_weapons			            
+<ObjectPosition>	8074.234863, 459.209686, 9309.925781    		
+<ObjectOrientation>	-44.998825, 0.000000, 0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_ammunition			            
+<ObjectPosition>	8071.909180, 459.199249, 9309.383789    		
+<ObjectOrientation>	35.998814, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_attachments			            
+<ObjectPosition>	8070.180664, 459.194519, 9311.348633    		
+<ObjectOrientation>	54.000389, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_melee			            
+<ObjectPosition>	8077.508301, 459.205597, 9313.626953    		
+<ObjectOrientation>	-48.680332, 0.000000, 0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_tools			            
+<ObjectPosition>	8068.904785, 459.202545, 9317.020508    		
+<ObjectOrientation>	44.998825, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_building			            
+<ObjectPosition>	8069.095703, 459.184662, 9320.989258    		
+<ObjectOrientation>	153.000702, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_hunting			            
+<ObjectPosition>	10812.345703, 335.837219, 12839.896484    		
+<ObjectOrientation>	0.000000, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_blackmarket			            
+<ObjectPosition>	4086.450928, 379.569122, 11736.596680    		
+<ObjectOrientation>	62.998062, 0.000000, -0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_vehicles			            
+<ObjectPosition>	8101.472656, 458.670868, 9327.210938    		
+<ObjectOrientation>	-49.153957, 0.000000, 0.000000			            
+<ObjectAttachment>	NPC_DUMMY
+
+
+                                    					            
+
+
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

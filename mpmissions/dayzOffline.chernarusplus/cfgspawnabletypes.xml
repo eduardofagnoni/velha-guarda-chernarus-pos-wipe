@@ -29,6 +29,14 @@
 	<type name="MediumTent_Orange">
 		<hoarder />
 	</type>
+
+	<type name="LargeTent_VelhaGuarda">
+		<hoarder />
+	</type>
+	<type name="TentMedium_Pitched_VelhaGuarda">
+		<hoarder />
+	</type>
+
 	<type name="PartyTent">
 		<hoarder />
 	</type>
