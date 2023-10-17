@@ -18,23 +18,23 @@
     "NoBuildZones": [
         {
             "Name": "Ilha da prisão",
-            "X": 2710.988037,
-            "Z": 1305.974121,
+            "X": 2697.53,
+            "Z": 1309.58,
             "R": 1000.0,
             "DrawOnMap": 0
         },
         {
             "Name": "Tikhizyaliv Military",
-            "X": 756.145142,
-            "Z": 1878.376099,
+            "X": 758.438,
+            "Z": 1881.13,
             "R": 1000.0,
             "DrawOnMap": 0
         },
         {
             "Name": "Pavlovo Military Base",
-            "X": 2110.387939,
-            "Z": 3431.643555,
-            "R": 1000.0,
+            "X": 2159.99,
+            "Z": 3448.01,
+            "R": 1200.0,
             "DrawOnMap": 0
         },
         {
@@ -43,7 +43,175 @@
             "Z": 4018.157715,
             "R": 1000.0,
             "DrawOnMap": 0
-        },        
+        },
+        {
+            "Name": "Zeleno Military",
+            "X": 2537.99,
+            "Z": 5141.27,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Mishkino Military",
+            "X": 1160.4,
+            "Z": 7233.97,
+            "R": 1100.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Tri Kresta Military",
+            "X": 335.229,
+            "Z": 9375.43,
+            "R": 1100.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Tisy Military",
+            "X": 1595.12,
+            "Z": 14136.9,
+            "R": 1200.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Grozovy Military",
+            "X": 3642.02,
+            "Z": 14930.4,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Zaprudnoye Military",
+            "X": 4984.13,
+            "Z": 12998.3,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Bashnya Military",
+            "X": 4039.78,
+            "Z": 11743.3,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Airfield Military",
+            "X": 4543.62,
+            "Z": 10307.3,
+            "R": 1200.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "VMC Military",
+            "X": 4534.69,
+            "Z": 8300.83,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Norte Balota Military",
+            "X": 4917.27,
+            "Z": 2565.23,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Sul Balota Military",
+            "X": 5216.27,
+            "Z": 2217.02,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Chernogorsk Military",
+            "X": 7260.63,
+            "Z": 3022.89,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Electro Military",
+            "X": 10481.9,
+            "Z": 2349.53,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Topolka Military",
+            "X": 10231.3,
+            "Z": 4025.53,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Staroye Military",
+            "X": 10434.6,
+            "Z": 5952.32,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Gorka Military",
+            "X": 10461.1,
+            "Z": 9144.35,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Novy Lug Military",
+            "X": 9569.4,
+            "Z": 11786.7,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Severograd Military",
+            "X": 7069.78,
+            "Z": 12716.5,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Kamensk Military",
+            "X": 7083.69,
+            "Z": 14546.8,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Troitskoy Military",
+            "X": 7883.99,
+            "Z": 14712.3,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Arsenovo Military",
+            "X": 8488.61,
+            "Z": 13962.3,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Ostry Military",
+            "X": 10950.1,
+            "Z": 13394,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Airstrip Krasnostrav Military",
+            "X": 11909.3,
+            "Z": 12535.6,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Berezino Military",
+            "X": 11969.6,
+            "Z": 9134.64,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },                
         {
             "Name": "SafeZone Velha Guarda",
             "X": 8085.521484375,

@@ -25,6 +25,7 @@ SET /a LOOPS=0
 ::@TraderFixesAndFeatures
 ::@PVEZ Reloaded
 ::@BetterVendingMachines
+::-mod=@CF;@Dabs Framework;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@Basic Territories
 
 start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile "-mod=@CF;@Dabs Framework;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@Basic Territories" -cpuCount=4 -dologs -adminlog -netlog -freezecheck
 ECHO [INFO] Servidor Iniciado em: %DATE%, %TIME%

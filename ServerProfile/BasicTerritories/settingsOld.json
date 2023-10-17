@@ -1,0 +1,84 @@
+{
+    "ConfigVersion": "2",
+    "WhiteList": [
+        "Trap",
+        "Paper",
+        "Fireplace"
+    ],
+    "ServerAdmins": [
+        "76561198363861269"
+    ],
+    "TentRadius": 6.0,
+    "TentCESpawnLifeTime": 5600.0,
+    "BuildBonusSledgeDamage": 300.0,
+    "RequireTerritory": 0,
+    "PublicPermissions": 20,
+    "MemberPermissions": 30,
+    "Notifications": 0,
+    "NoBuildZones": [
+        {
+            "Name": "Ilha da prisão",
+            "X": 2710.988037,
+            "Z": 1305.974121,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Tikhizyaliv Military",
+            "X": 756.145142,
+            "Z": 1878.376099,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Pavlovo Military Base",
+            "X": 2110.387939,
+            "Z": 3431.643555,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "Topolka Military",
+            "X": 10229.375977,
+            "Z": 4018.157715,
+            "R": 1000.0,
+            "DrawOnMap": 0
+        },        
+        {
+            "Name": "SafeZone Velha Guarda",
+            "X": 8085.521484375,
+            "Z": 9321.0263671875,
+            "R": 800.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "SafeZone Caçador",
+            "X": 10813.0341796875,
+            "Z": 12841.62109375,
+            "R": 800.0,
+            "DrawOnMap": 0
+        },
+        {
+            "Name": "SafeZone Contrabandista",
+            "X": 4088.33203125,
+            "Z": 11736.466796875,
+            "R": 800.0,
+            "DrawOnMap": 0
+        }
+    ],
+    "NoBuildZoneMessage": " Você não pode construir aqui, você está tentando construir em uma zona designada sem construção",
+    "TerritoryConflictMessage": " Desculpe, você não pode construir um território tão próximo de outro território",
+    "WithinTerritoryWarning": " Desculpe, você não pode construir tão perto de um território inimigo",
+    "DeSpawnWarningMessage": " Você está construindo fora de um território, $ITEMNAME$ desaparecerá em $LIFETIME$ sem um território",
+    "BuildPartWarningMessage": " Desculpe, você não tem permissão para construir nesta área.",
+    "DismantleWarningMessage": " Desculpe, você não pode desmontar nada tão perto de uma bandeira levantada",
+    "LowerFlagWarningMessage": " Desculpe, você não tem permissão para abaixar a bandeira neste território",
+    "TerritoryRequiredWarningMessage": " Desculpe, você é obrigado a construir um território para poder construir",
+    "FlagRefreshFrequency": 432000,
+    "KitLifeTimes": {
+        "watchtowerkit": 3888000,
+        "fencekit": 3888000,
+        "bbp_": 3888000,
+        "msp_": 3888000
+    }
+}
