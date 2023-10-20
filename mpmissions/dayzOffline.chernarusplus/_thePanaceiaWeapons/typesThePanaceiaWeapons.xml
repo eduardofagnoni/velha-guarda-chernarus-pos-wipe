@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="PNC_Suppressor_408Cheytac">
-    <nominal>2</nominal>
+    <nominal>12</nominal>
     <lifetime>3600</lifetime>
     <restock>28400</restock>
-    <min>1</min>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -937,10 +937,10 @@
     <value name="Tier3" />
   </type>
   <type name="AmmoBox_65creedmoor_20rnd">
-    <nominal>20</nominal>
+    <nominal>30</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1376,10 +1376,10 @@
     <value name="Tier2" />
   </type>
   <type name="AmmoBox_50beowolf_20rnd">
-    <nominal>6</nominal>
+    <nominal>16</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1389,10 +1389,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_12_7_55_20rnd">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1402,10 +1402,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_338LapuaMagnum_20rnd">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>5800</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1415,10 +1415,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_408Cheytac_20rnd">
-    <nominal>4</nominal>
+    <nominal>14</nominal>
     <lifetime>3600</lifetime>
     <restock>8800</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1428,10 +1428,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_556x45AP_20rnd">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>21600</restock>
-    <min>0</min>
+    <min>5</min>
     <quantmin>3</quantmin>
     <quantmax>5</quantmax>
     <cost>100</cost>
@@ -1441,10 +1441,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_762x39AP_20rnd">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>21600</restock>
-    <min>0</min>
+    <min>8</min>
     <quantmin>1</quantmin>
     <quantmax>45</quantmax>
     <cost>100</cost>
@@ -1454,10 +1454,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_300aac_ap_20rnd">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>21600</restock>
-    <min>0</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1467,10 +1467,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_308winAP_20rnd">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>7200</lifetime>
     <restock>21600</restock>
-    <min>0</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1480,10 +1480,10 @@
     <value name="Tier4" />
   </type>
   <type name="AmmoBox_50bmg_20rnd">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>7200</lifetime>
     <restock>15200</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1493,10 +1493,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_HoneyBadger_30Rnd">
-    <nominal>15</nominal>
+    <nominal>25</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>9</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1509,10 +1509,10 @@
     <value name="Tier2" />
   </type>
   <type name="PNC_HoneyBadger_60Rnd">
-    <nominal>8</nominal>
+    <nominal>18</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>4</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1537,10 +1537,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_Ash127_20rnd">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>4</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1551,10 +1551,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_Beowulf50_20Rnd">
-    <nominal>12</nominal>
+    <nominal>22</nominal>
     <lifetime>7200</lifetime>
     <restock>21600</restock>
-    <min>6</min>
+    <min>16</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1565,10 +1565,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_M60_Mag">
-    <nominal>4</nominal>
+    <nominal>14</nominal>
     <lifetime>7200</lifetime>
     <restock>5200</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1608,10 +1608,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_ORSIST5000_5rnd">
-    <nominal>3</nominal>
+    <nominal>13</nominal>
     <lifetime>7200</lifetime>
     <restock>4200</restock>
-    <min>2</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1621,10 +1621,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_Mag_AWM_5Rnd">
-    <nominal>5</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>3200</restock>
-    <min>3</min>
+    <min>13</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1635,10 +1635,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_CheyTacM300_7Rnd">
-    <nominal>3</nominal>
+    <nominal>13</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1649,10 +1649,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_AX50_7rnd">
-    <nominal>4</nominal>
+    <nominal>14</nominal>
     <lifetime>3600</lifetime>
     <restock>15200</restock>
-    <min>2</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1663,10 +1663,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_Mag_BarretM82A1_10Rnd">
-    <nominal>3</nominal>
+    <nominal>13</nominal>
     <lifetime>3600</lifetime>
     <restock>10800</restock>
-    <min>1</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

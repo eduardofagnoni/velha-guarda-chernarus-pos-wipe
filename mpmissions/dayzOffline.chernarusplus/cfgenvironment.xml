@@ -43,6 +43,9 @@
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
 		</territory>
+		<territory type="Herd" name="ZombieKrasno" behavior="DZdomesticGroupBeh">
+			<file usable="InfectedNBCKrasno_territories"/>
+		</territory>
 
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">

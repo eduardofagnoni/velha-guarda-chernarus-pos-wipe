@@ -5,6 +5,8 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 
+//GetCEApi().ExportProxyData( "7500 0 7500", 18000 );
+
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
 	int reset_month = 9, reset_day = 20;
@@ -28,6 +30,7 @@ void main()
 			}
 		}
 	}
+//EditorLoaderModule.ExportLootData = true;
 }
 
 class CustomMission: MissionServer

@@ -39,7 +39,7 @@
             "m_Deposit": 1,
             "m_Withdraw": 1,
             "m_MaxBalance": 100000000,
-            "m_StartBalance": 50000,
+            "m_StartBalance": 10000,
             "m_Coins": [
                 {
                     "m_Class": "Real_1",

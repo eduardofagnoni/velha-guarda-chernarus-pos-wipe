@@ -55,4 +55,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="typesThePanaceiaWeapons.xml" type="types"/>
 	</ce>
 
+
 </economycore>
