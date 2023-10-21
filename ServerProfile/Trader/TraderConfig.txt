@@ -572,6 +572,21 @@
 		GhillieSuit_Mossy,		*,		1000,	300
 		GhillieSuit_Tan,		*,		1000,	300
 		GhillieSuit_Woodland,	*,		1000,	300
+		BR_GhillieSuit_Gold,    *,      7000,   500
+        BR_GhillieHood_Gold,    *,      7000,   500
+        BR_GhillieAtt_Gold,     *,      7000,   500
+        BR_GhillieSuit_Stone,   *,      7000,   500
+        BR_GhillieHood_Stone,   *,      7000,   500
+        BR_GhillieAtt_Stone,    *,      7000,   500
+        BR_GhillieSuit_Green,   *,      7000,   500
+        BR_GhillieHood_Green,   *,      7000,   500
+        BR_GhillieAtt_Green,    *,      7000,   500
+        BR_GhillieSuit_Wood,    *,      7000,   500
+        BR_GhillieHood_Wood,    *,      7000,   500
+        BR_GhillieAtt_Wood,     *,      7000,   500
+        BR_GhillieSuit_Black,   *,      7000,   500
+        BR_GhillieHood_Black,   *,      7000,   500
+        BR_GhillieAtt_Black,    *,      7000,   500
 
     //<Category> Vestido chique
 		//CrookedNose,			*,		15,		0
@@ -666,6 +681,162 @@
 		//LeatherSack_Black,	*,		0,		0
 		//LeatherSack_Brown,	*,		0,		0
 		//LeatherSack_Natural,	*,		0,		0
+
+	<Category> Squad EB
+        BR_EB_TacticalHelmet,                       *,          9000,          1000
+        BR_EB_GorkaHelmet,                          *,          9000,          1000
+        BR_EB_BallisticHelmet,                      *,          9000,          1000
+        BR_EB_BalaclavaMask,                        *,          9000,          1000
+        BR_EB_BalaclavaMask3Holes,                  *,          9000,          1000
+        BR_EB_PlateCarrierVest,                     *,          9000,          1000
+        BR_EB_PlateCarrierHolster,                  *,          9000,          1000
+        BR_EB_PlateCarrierPouches,                  *,          9000,          1000
+        BR_EB_MassivePlateCarrier,                  *,          9000,          1000
+        BR_EB_TacticalGlovesCamo,                   *,          9000,          1000
+        BR_EB_TacticalGlovesBlack,                  *,          9000,          1000
+        BR_EB_Jacket,                               *,          9000,          1000
+        BR_EB_Pants,                                *,          9000,          1000
+        BR_EB_JungleBootsBlack,                     *,          9000,          1000
+        BR_EB_JungleBootsCamo,                      *,          9000,          1000
+        BR_EB_HikingBackpack,                       *,          9000,          1000
+        BR_EB_AssaultBackpack,                      *,          9000,          1000
+        BR_EB_MountainBackpack,                     *,          9000,          1000
+        BR_EB_HikingBackpack_Plus,                  *,          9000,          1000
+        BR_EB_AssaultBackpack_Plus,                 *,          9000,          1000
+        BR_EB_MountainBackpack_Plus,                *,          9000,          1000
+
+    <Category> Squad Naval
+        BR_Naval_BoonieHat,                         *,          9000,          1000
+        BR_Naval_TacticalHelmet,                    *,          9000,          1000
+        BR_Naval_BallisticHelmet,                   *,          9000,          1000
+        BR_Naval_BalaclavaMask,                     *,          9000,          1000
+        BR_Naval_BalaclavaMask3Ho                   *,          9000,          1000
+        BR_Naval_PlateCarrierVest,                  *,          9000,          1000
+        BR_Naval_PlateCarrierHolster,               *,          9000,          1000
+        BR_Naval_PlateCarrierPouches,               *,          9000,          1000
+        BR_Naval_MassivePlateCarrier,               *,          9000,          1000
+        BR_Naval_TacticalGlovesBlack,               *,          9000,          1000
+        BR_Naval_TacticalGlovesCamo,                *,          9000,          1000
+        BR_Naval_Jacket,                            *,          9000,          1000
+        BR_Naval_Pants,                             *,          9000,          1000
+        BR_Naval_MilitaryBootsRed,                  *,          9000,          1000
+        BR_Naval_MilitaryBootsBlack,                *,          9000,          1000
+        BR_Naval_HikingBackpack,                    *,          9000,          1000
+        BR_Naval_AssaultBackpack,                   *,          9000,          1000
+        BR_Naval_MountainBackpack,                  *,          9000,          1000
+        BR_Naval_HikingBackpack_Plus,               *,          9000,          1000
+        BR_Naval_AssaultBackpack_Plus,              *,          9000,          1000
+        BR_Naval_MountainBackpack_Plus,             *,          9000,          1000
+
+     <Category> Squad FAB
+        BR_FAB_BaseballCap,                         *,          9000,          1000
+        BR_FAB_TacticalHelmet,                      *,          9000,          1000
+        BR_FAB_BallisticHelmet,                     *,          9000,          1000
+        BR_FAB_BalaclavaMask,                       *,          9000,          1000
+        BR_FAB_PlateCarrierVest,                    *,          9000,          1000
+        BR_FAB_PlateCarrierHolster,                 *,          9000,          1000
+        BR_FAB_PlateCarrierPouches,                 *,          9000,          1000
+        BR_FAB_MassivePlateCarrier,                 *,          9000,          1000
+        BR_FAB_Gloves,                              *,          9000,          1000
+        BR_FAB_Jacket,                              *,          9000,          1000
+        BR_FAB_Pants,                               *,          9000,          1000
+        BR_FAB_MilitaryBoots,                       *,          9000,          1000
+        BR_FAB_HikingBackpack,                      *,          9000,          1000
+        BR_FAB_AssaultBackpack,                     *,          9000,          1000
+        BR_FAB_MountainBackpack,                    *,          9000,          1000
+        BR_FAB_HikingBackpack_Plus,                 *,          9000,          1000
+        BR_FAB_AssaultBackpack_Plus,                *,          9000,          1000
+        BR_FAB_MountainBackpack_Plus,               *,          9000,          1000
+
+     <Category> Squad Bope
+        BR_Bope_BopeBeret,                          *,          12000,          1000
+        BR_Bope_TacticalHelmet,                     *,          12000,          1000
+        BR_Bope_BallisticHelmetSkull,               *,          12000,          1000
+        BR_Bope_BalaclavaMask,                      *,          12000,          1000
+        BR_Bope_Bandana,                            *,          12000,          1000
+        BR_Bope_PlateCarrierVest,                   *,          12000,          1000
+        BR_Bope_PlateCarrierHolster,                *,          12000,          1000
+        BR_Bope_PlateCarrierPouches,                *,          12000,          1000
+        BR_Bope_MassivePlateCarrier,                *,          12000,          1000
+        BR_Bope_TacticalGloves,                     *,          12000,          1000
+        BR_Bope_Gloves,                             *,          12000,          1000
+        BR_Bope_Jacket,                             *,          12000,          1000
+        BR_Bope_Pants,                              *,          12000,          1000
+        BR_Bope_MilitaryBoots,                      *,          12000,          1000
+        BR_Bope_HikingBackpack,                     *,          12000,          1000
+        BR_Bope_AssaultBackpack,                    *,          12000,          1000
+        BR_Bope_MountainBackpack,                   *,          12000,          1000
+        BR_Bope_HikingBackpack_Plus,                *,          12000,          1000
+        BR_Bope_AssaultBackpack_Plus,               *,          12000,          1000
+        BR_Bope_MountainBackpack_Plus,              *,          12000,          1000
+        
+     <Category> Squad Desert
+        BR_Desert_BaseballCap,                      *,          9000,       1000
+        BR_Desert_TacticalHelmet,                   *,          9000,       1000
+        BR_Desert_BallisticHelmet,                  *,          9000,       1000
+        BR_Desert_BalaclavaMask,                    *,          9000,       1000
+        BR_Desert_BalaclavaMask3Holes,              *,          9000,       1000
+        BR_Desert_Bandana,                          *,          9000,       1000
+        BR_Desert_PlateCarrierVest,                 *,          9000,       1000
+        BR_Desert_PlateCarrierHolster,              *,          9000,       1000
+        BR_Desert_PlateCarrierPouches,              *,          9000,       1000
+        BR_Desert_MassivePlateCarrier,              *,          9000,       1000
+        BR_Desert_TacticalGloves,                   *,          9000,       1000
+        BR_Desert_Jacket,                           *,          9000,       1000
+        BR_Desert_Pants,                            *,          9000,       1000
+        BR_Desert_JungleBoots,                      *,          9000,       1000
+        BR_Desert_HikingBackpack,                   *,          9000,       1000
+        BR_Desert_AssaultBackpack,                  *,          9000,       1000
+        BR_Desert_MountainBackpack,                 *,          9000,       1000
+        BR_Desert_HikingBackpack_Plus,              *,          9000,       1000
+        BR_Desert_AssaultBackpack_Plus,             *,          9000,       1000
+        BR_Desert_MountainBackpack_Plus,            *,          9000,       1000      
+
+     <Category> Squad Urban
+        BR_Urban_BeanieHat,                         *,          9000,       1000
+        BR_Urban_TacticalHelmet,                    *,          9000,       1000
+        BR_Urban_GorkaHelmet,                       *,          9000,       1000
+        BR_Urban_BallisticHelmet,                   *,          9000,       1000
+        BR_Urban_BalaclavaMask,                     *,          9000,       1000
+        BR_Urban_BalaclavaMask3Holes,               *,          9000,       1000
+        BR_Urban_PlateCarrierVest,                  *,          9000,       1000
+        BR_Urban_PlateCarrierHolster,               *,          9000,       1000
+        BR_Urban_PlateCarrierPouches,               *,          9000,       1000
+        BR_Urban_MassivePlateCarrier,               *,          9000,       1000
+        BR_Urban_TacticalGloves,                    *,          9000,       1000
+        BR_Urban_Jacket,                            *,          9000,       1000
+        BR_Urban_Pants,                             *,          9000,       1000
+        BR_Urban_JungleBoots,                       *,          9000,       1000
+        BR_Urban_HikingBackpack,                    *,          9000,       1000
+        BR_Urban_AssaultBackpack,                   *,          9000,       1000
+        BR_Urban_MountainBackpack,                  *,          9000,       1000
+        BR_Urban_HikingBackpack_Plus,               *,          9000,       1000
+        BR_Urban_AssaultBackpack_Plus,              *,          9000,       1000
+        BR_Urban_MountainBackpack_Plus,             *,          9000,       1000
+
+     <Category> Squad Multicam Black
+        BR_MulticamBlack_BoonieHat,                 *,          9000,       1000
+        BR_MulticamBlack_TacticalHelmet,            *,          9000,       1000
+        BR_MulticamBlack_GorkaHelmet,               *,          9000,       1000
+        BR_MulticamBlack_BallisticHelmet,           *,          9000,       1000
+        BR_MulticamBlack_BalaclavaMask,             *,          9000,       1000
+        BR_MulticamBlack_BalaclavaMask3Holes,       *,          9000,       1000
+        BR_MulticamBlack_Bandana,                   *,          9000,       1000
+        BR_MulticamBlack_PlateCarrierVest,          *,          9000,       1000
+        BR_MulticamBlack_PlateCarrierHolster,       *,          9000,       1000
+        BR_MulticamBlack_PlateCarrierPouches,       *,          9000,       1000
+        BR_MulticamBlack_MassivePlateCarrier,       *,          9000,       1000
+        BR_MulticamBlack_OMNOGloves,                *,          9000,       1000
+        BR_MulticamBlack_TacticalGloves,            *,          9000,       1000
+        BR_MulticamBlack_Jacket,                    *,          9000,       1000
+        BR_MulticamBlack_Pants,                     *,          9000,       1000
+        BR_MulticamBlack_JungleBoots,               *,          9000,       1000
+        BR_MulticamBlack_HikingBackpack,            *,          9000,       1000
+        BR_MulticamBlack_AssaultBackpack,           *,          9000,       1000
+        BR_MulticamBlack_MountainBackpack,          *,          9000,       1000
+        BR_MulticamBlack_HikingBackpack_Plus,       *,          9000,       1000
+        BR_MulticamBlack_AssaultBackpack_Plus,      *,          9000,       1000
+        BR_MulticamBlack_MountainBackpack_Plus,     *,          9000,       1000
 
 
     
@@ -1175,7 +1346,7 @@
 		Binoculars,				*,		30,		15		
 		FishingRod,				*,		60,		25
 		GPSReceiver,			*,		200,	100
-		PunchedCard,			*,		900,	-1	        
+		//PunchedCard,			*,		9000,	-1	        
 								
     <Category> Ferramentas (grandes)										
         LugWrench,				*,		4,		1
@@ -1255,7 +1426,7 @@
 		MediumGasCanister,		*,		100,	40
 		LargeGasCanister,		*,		200,	70
 		CanisterGasoline,		*,		300,	80
-		NailBox,				*,		300,	120
+		NailBox,				*,		10000,	120
 		BarbedWire,				*,		450,	200
 		Camonet,				*,		600,	250
 		HescoBox,				*,		650,	250
@@ -1342,7 +1513,9 @@
 		Flag_Zenit,				*,		300,	120
 		Flag_RSTA,				*,		300,	120
 		Flag_Refuge,			*,		300,	120
-		Flag_Snake,				*,		300,	120	
+		Flag_Snake,				*,		300,	120
+
+	
 
 
 

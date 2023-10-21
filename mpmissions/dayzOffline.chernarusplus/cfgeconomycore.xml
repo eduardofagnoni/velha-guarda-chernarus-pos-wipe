@@ -36,23 +36,28 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
 
 	<!-- Barracas Velha Guarda -->
-	<ce folder="_barracasVelhaGuarda">
+	<!-- <ce folder="_barracasVelhaGuarda">
         <file name="typesBarracasVelhaGuarda.xml" type="types"/>
-	</ce>
-
+	</ce> -->
 	<!-- Barrils de fogo -->
 	<ce folder="_barrilsDeFofo">
         <file name="typesBarrilDeFogo.xml" type="types"/>
 	</ce>
-
 	<!-- Cod Lock -->
 	<ce folder="_codLock">
         <file name="typesCodLock.xml" type="types"/>
 	</ce>
-
 	<!-- Panaceia Weapons -->
 	<ce folder="_thePanaceiaWeapons">
         <file name="typesThePanaceiaWeapons.xml" type="types"/>
+	</ce>
+	<!-- MuchStuffPack -->
+	<ce folder="_MuchStuffPack">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- BR_Army -->
+	<ce folder="_BR_Army">
+        <file name="types.xml" type="types"/>
 	</ce>
 
 

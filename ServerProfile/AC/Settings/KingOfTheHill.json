@@ -1363,28 +1363,28 @@
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
-				{
+                {
                     "m_Item": "PNC_M110_Mag",
                     "m_Chance": 50,
                     "m_StackMin": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
-				{
+                {
                     "m_Item": "PNC_M200_Mag",
                     "m_Chance": 50,
                     "m_StackMin": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
-				{
+                {
                     "m_Item": "PNC_Mag_VR80_10rnd",
                     "m_Chance": 50,
                     "m_StackMin": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
-				{
+                {
                     "m_Item": "PNC_Mag_PKP_200Rnd",
                     "m_Chance": 50,
                     "m_StackMin": 0,

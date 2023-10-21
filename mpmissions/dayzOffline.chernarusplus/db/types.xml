@@ -926,11 +926,11 @@
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
     </type> -->
-    <type name="Ammo_40mm_Explosive">
-        <nominal>18</nominal>
+    <!-- <type name="Ammo_40mm_Explosive">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -940,55 +940,55 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Unique"/>
-    </type>
-    <type name="Ammo_40mm_Smoke_Black">
-        <nominal>15</nominal>
+    </type> -->
+    <!-- <type name="Ammo_40mm_Smoke_Black">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-    </type>
-    <type name="Ammo_40mm_Smoke_Green">
-        <nominal>15</nominal>
+    </type> -->
+    <!-- <type name="Ammo_40mm_Smoke_Green">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-    </type>
-    <type name="Ammo_40mm_Smoke_Red">
-        <nominal>15</nominal>
+    </type> -->
+    <!-- <type name="Ammo_40mm_Smoke_Red">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-    </type>
-    <type name="Ammo_40mm_Smoke_White">
-        <nominal>15</nominal>
+    </type> -->
+    <!-- <type name="Ammo_40mm_Smoke_White">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-    </type>
+    </type> -->
     <type name="Ammo_45ACP">
         <nominal>75</nominal>
         <lifetime>14400</lifetime>
@@ -4160,7 +4160,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-    <type name="CarTent">
+    <!-- <type name="CarTent">
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -4171,7 +4171,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Industrial"/>
-    </type>
+    </type> -->
     <type name="CargoPants_Beige">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -10753,7 +10753,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
     </type>
-    <type name="LargeTent">
+    <!-- <type name="LargeTent">
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -10764,7 +10764,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
-    </type>
+    </type> -->
     <type name="LeatherBelt_Beige">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -12585,7 +12585,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
     </type>
-    <type name="MediumTent">
+    <!-- <type name="MediumTent">
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -12597,8 +12597,8 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-    </type>
-    <type name="MediumTent_Green">
+    </type> -->
+    <!-- <type name="MediumTent_Green">
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -12610,8 +12610,8 @@
         <category name="containers"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-    </type>
-    <type name="MediumTent_Orange">
+    </type> -->
+    <!-- <type name="MediumTent_Orange">
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -12623,7 +12623,7 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-    </type>
+    </type> -->
     <type name="Megaphone">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -14014,7 +14014,7 @@
         <category name="clothes"/>
         <usage name="Medic"/>
     </type>
-    <type name="PartyTent">
+    <!-- <type name="PartyTent">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -14025,8 +14025,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
-    </type>
-    <type name="PartyTent_Blue">
+    </type> -->
+    <!-- <type name="PartyTent_Blue">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -14037,8 +14037,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
-    </type>
-    <type name="PartyTent_Brown">
+    </type> -->
+    <!-- <type name="PartyTent_Brown">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -14049,8 +14049,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
-    </type>
-    <type name="PartyTent_Lunapark">
+    </type> -->
+    <!-- <type name="PartyTent_Lunapark">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -14061,7 +14061,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Lunapark"/>
-    </type>
+    </type> -->
     <type name="Pate">
         <nominal>23</nominal>
         <lifetime>9000</lifetime>
