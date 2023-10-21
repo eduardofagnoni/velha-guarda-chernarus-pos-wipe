@@ -1,0 +1,1584 @@
+{
+    "loglevel": 0,
+    "BubakLocations": [
+        {
+            "name": "BunkerSul1_0Gat",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Você está começando sua jordada...Precisa estar preparado... Cuidado!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "832.718 3.16351 1215.14"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_HK416"
+            ]
+        },
+        {
+            "name": "BunkerSul1_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "830.271 3.42599 1213.66"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_HK416_Mag"
+            ]
+        },
+        {
+            "name": "BunkerSul1_2Ute",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "832.961 3.28413 1214.25"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Chemlight_White"
+            ]
+        },
+        {
+            "name": "BunkerSul1_2Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "839.903 2.58845 1204.2"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul1_3Gun",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "799.781 2.47292 1200.88"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "FAMAS"
+            ]
+        },
+        {
+            "name": "BunkerSul1_3MAG",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "809.031 2.47396 1204.32"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_FAMAS_25Rnd"
+            ]
+        },
+        {
+            "name": "BunkerSul1_4Gun",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "780.107 2.45652 1192.08"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deagle_Gold"
+            ]
+        },
+        {
+            "name": "BunkerSul1_4Mag",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "788.061 2.45803 1194.36"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_Deagle_9rnd"
+            ]
+        },
+        {
+            "name": "BunkerSul1_5Gun",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "769.227 2.59862 1186.21"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Crossbow_Wood"
+            ]
+        },
+        {
+            "name": "BunkerSul1_6Ves",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "826.72 3.34098 1168.58"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "CombatBoots_Black"
+            ]
+        },
+        {
+            "name": "BunkerSul1_7Ves",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "815.422 3.60201 1167.75"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Canteen"
+            ]
+        },
+        {
+            "name": "BunkerSul1_8Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "818.6 2.3601 1177.64"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul1_9Gun",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "816.922 3.41537 1151.64"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "FAL"
+            ]
+        },
+        {
+            "name": "BunkerSul1_9Mag",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "814.918 3.41413 1155.84"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_FAL_20Rnd"
+            ]
+        },
+        {
+            "name": "BunkerSul1_AGun",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "758.87 3.19526 1139.83"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Aug"
+            ]
+        },
+        {
+            "name": "BunkerSul1_AMag",
+            "workinghours": "0-24",
+            "triggerpos": "833.327 2.58554 1219.18",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "758.623 3.19539 1140.48"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_Aug_30Rnd"
+            ]
+        },
+        {
+            "name": "BunkerSul2_0Gat",
+            "workinghours": "0-24",
+            "triggerpos": "791.243 2.38413 1144.68",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Você está indo bem...mas as coisas podem piorar!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "785.388 12.1286 1128.62"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul2_1Med",
+            "workinghours": "0-24",
+            "triggerpos": "791.243 2.38413 1144.68",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "761.001 13.1074 1141.03"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "BandageDressing"
+            ]
+        },
+        {
+            "name": "BunkerSul2_2Med",
+            "workinghours": "0-24",
+            "triggerpos": "791.243 2.38413 1144.68",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "764.716 13.2912 1138.39"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "FirstAidKit"
+            ]
+        },
+        {
+            "name": "BunkerSul2_3Ali",
+            "workinghours": "0-24",
+            "triggerpos": "791.243 2.38413 1144.68",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "774.083 13.1874 1096.63"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Honey"
+            ]
+        },
+        {
+            "name": "BunkerSul3_0Gat",
+            "workinghours": "0-24",
+            "triggerpos": "828.242 12.3589 1085.43",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Cuidado! Os perigos ainda não acabaram!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "844.136 12.1306 1070.36"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul3_1Gun",
+            "workinghours": "0-24",
+            "triggerpos": "828.242 12.3589 1085.43",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "860.056 13.0821 1088.56"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M200"
+            ]
+        },
+        {
+            "name": "BunkerSul3_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "828.242 12.3589 1085.43",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "860.918 13.0797 1086.86"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M200_Mag"
+            ]
+        },
+        {
+            "name": "BunkerSul4_0Gat",
+            "workinghours": "0-24",
+            "triggerpos": "860.679 12.2487 1056.55",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Os caminhos são confusos e os perigos permanecem!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "849.518 12.1255 1062.47"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul4_1Gun",
+            "workinghours": "0-24",
+            "triggerpos": "860.679 12.2487 1056.55",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "870.022 13.0535 1074.07"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M249"
+            ]
+        },
+        {
+            "name": "BunkerSul4_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "860.679 12.2487 1056.55",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "870.022 13.0535 1074.07"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M249_Mag"
+            ]
+        },
+        {
+            "name": "BunkerSul4_2Gun",
+            "workinghours": "0-24",
+            "triggerpos": "860.679 12.2487 1056.55",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "851.827 12.8625 1087.89"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M700"
+            ]
+        },
+        {
+            "name": "BunkerSul4_2Mag",
+            "workinghours": "0-24",
+            "triggerpos": "860.679 12.2487 1056.55",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "851.827 12.8625 1087.89"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M700_Mag"
+            ]
+        },
+        {
+            "name": "BunkerSul5_0Gat",
+            "workinghours": "0-24",
+            "triggerpos": "858.58  2.19707 1054.81",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Se chegou até aqui, merece viver...mas o perigo ainda não acabou!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "849.72 2.12858 1058.04"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerSul5_1Gun",
+            "workinghours": "0-24",
+            "triggerpos": "829.749 3.19434 1049.71",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "833.823 3.06661 1053.22"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "SNAFU_AK308"
+            ]
+        },
+        {
+            "name": "BunkerSul5_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "829.749 3.19434 1049.71",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "833.679 3.06661 1052.89"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "SNAFU_AK308_Mag"
+            ]
+        },
+        {
+            "name": "BunkerSul5_2Gun",
+            "workinghours": "0-24",
+            "triggerpos": "829.749 3.19434 1049.71",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "865.306 2.96018 1030.62"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "SNAFU_AWM_Gun"
+            ]
+        },
+        {
+            "name": "BunkerSul5_2Mag",
+            "workinghours": "0-24",
+            "triggerpos": "829.749 3.19434 1049.71",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "865.025 3.08566 1031.5"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "SNAFU_AWM_Mag"
+            ]
+        },
+        {
+            "name": "Você entrou no Bunker Norte!",
+            "workinghours": "0-24",
+            "triggerpos": "5479.54 483.149 14907.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Sua escolha é definitiva...Daqui para frente não tem volta... Cuidado!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5482.13 483.796 14909.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_HK416"
+            ]
+        },
+        {
+            "name": "BunkerNor1_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "5479.54 483.149 14907.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5482.42 483.924 14910.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_HK416_Mag"
+            ]
+        },
+        {
+            "name": "BunkerNor1_2Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5479.54 483.149 14907.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5487.62 483.121 14936.1"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black",
+                "FS_Izlome",
+                "FS_KrovososType2_Volkodav_Ser",
+                "FS_DogZBM"
+            ]
+        },
+        {
+            "name": "PERIGOS À VISTA!!",
+            "workinghours": "0-24",
+            "triggerpos": "5508.65 482.231 14945.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Observe todos os lugares...os perigos surgem do nada!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5514.33 482.956 14919"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Canteen"
+            ]
+        },
+        {
+            "name": "BunkerNor1_3Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5508.65 482.231 14945.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5499.17 482.38 14975.3"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "FAMAS"
+            ]
+        },
+        {
+            "name": "BunkerNor1_3MAG",
+            "workinghours": "0-24",
+            "triggerpos": "5508.65 482.231 14945.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5499.8 482.386 14975.3"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_FAMAS_25Rnd"
+            ]
+        },
+        {
+            "name": "BunkerNor1_3Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5508.65 482.231 14945.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5548.04 482.368 14966.6"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black",
+                "FS_Izlome",
+                "FS_KrovososType2_Volkodav_Ser",
+                "FS_DogZBM"
+            ]
+        },
+        {
+            "name": "Daqui para frente tudo é perigo!",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Olhe bem à sua volta...Pode aparecer o inesperado!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5572.11 488.5 15030.2"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "MMG_supply_black"
+            ]
+        },
+        {
+            "name": "BunkerNor1_4Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5554.7 488.659 15038.3"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deagle_Gold"
+            ]
+        },
+        {
+            "name": "BunkerNor1_4Mag",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5555.27 488.659 15038.6"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_Deagle_9rnd"
+            ]
+        },
+        {
+            "name": "BunkerNor1_5Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5540.07 488.487 15030.0"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Crossbow_Wood"
+            ]
+        },
+        {
+            "name": "BunkerNor1_6Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5520.1 488.675 15021.1"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black",
+                "FS_Izlome",
+                "FS_KrovososType2_Volkodav_Ser",
+                "FS_DogZBM"
+            ]
+        },
+        {
+            "name": "BunkerNor1_6Ves",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5512.93 489.806 15041.7"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "CombatBoots_Black"
+            ]
+        },
+        {
+            "name": "BunkerNor1_7Ves",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5502.74 489.444 15006"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Canteen"
+            ]
+        },
+        {
+            "name": "BunkerNor1_8Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5544.91 484.723 14988.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5560.14 503.353 15040.1"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "Agora você está no caminho certo!",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 488.465 15083",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "As coisas vão começar a ficar mais difíceis!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5528.69 482.991 15122.5"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "MMG_supply_black"
+            ]
+        },
+        {
+            "name": "BunkerNor1_9Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 488.465 15083",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5508.6 481.972 15139.2"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "FAL"
+            ]
+        },
+        {
+            "name": "BunkerNor1_9Mag",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 488.465 15083",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5508.09 481.972 15137.5"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_FAL_20Rnd"
+            ]
+        },
+        {
+            "name": "BunkerNor1_9Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 488.465 15083",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5468.82 483.568 15126.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "Você precisa passar por estes canos e chegar ao outro lado!",
+            "workinghours": "0-24",
+            "triggerpos": "5469.57 483.568 15141.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Precisas ser astuto e ágil, senão não sairá mais daqui!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5442.41 483.572 15121"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "MMG_supply_black"
+            ]
+        },
+        {
+            "name": "BunkerNor1_AGun",
+            "workinghours": "0-24",
+            "triggerpos": "5469.57 483.568 15141.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5467.85 488.683 15054.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Aug"
+            ]
+        },
+        {
+            "name": "BunkerNor1_AMag",
+            "workinghours": "0-24",
+            "triggerpos": "5469.57 483.568 15141.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5475.03 488.683 15055.3"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Mag_Aug_30Rnd"
+            ]
+        },
+        {
+            "name": "BunkerNor1_9Zmb",
+            "workinghours": "0-24",
+            "triggerpos": "5469.57 483.568 15141.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5461.46 488.67 15038.3"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "Ainda lhe resta muita vida? Vai precisar de sorte!",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 503.697 15005",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Muitos zumbis mas também loots muito bons!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5465.8 518.458 15006.7"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerNor2_1Med",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 503.697 15005",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5432.24 518.426 15027.6"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "BandageDressing"
+            ]
+        },
+        {
+            "name": "BunkerNor2_3Ali",
+            "workinghours": "0-24",
+            "triggerpos": "5484.41 503.697 15005",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5423.24 518.429 15016.4"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Honey"
+            ]
+        },
+        {
+            "name": "UAU!! Temos companhia!",
+            "workinghours": "0-24",
+            "triggerpos": "5460.15 518.576 15016.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Cuidado! Os perigos ainda não acabaram!",
+            "notificationtime": 4,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5461.06 533.641 15018"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_PatientSkinny",
+                "ZmbM_MilkMaidOld_Beige",
+                "FS_ZMB_Stalker_Top",
+                "ZmbM_Mummy",
+                "ZmbM_PolicemanFat",
+                "FS_WolfZmb_black"
+            ]
+        },
+        {
+            "name": "BunkerNor3_1Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5460.15 518.576 15016.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5463.02 533.641 15016.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M200"
+            ]
+        },
+        {
+            "name": "BunkerNor3_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "5460.15 518.576 15016.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5462.81 533.641 15017.4"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M200_Mag"
+            ]
+        },
+        {
+            "name": "BunkerNor4_1Gun",
+            "workinghours": "0-24",
+            "triggerpos": "5460.15 518.576 15016.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5459.6 534.849 15017.5"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M249"
+            ]
+        },
+        {
+            "name": "BunkerNor4_1Mag",
+            "workinghours": "0-24",
+            "triggerpos": "5460.15 518.576 15016.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5458.6 534.726 15017.8"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "GCGN_M249_Mag"
+            ]
+        }
+    ]
+}
