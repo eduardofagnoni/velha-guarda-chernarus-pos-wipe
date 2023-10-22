@@ -1,15 +1,23 @@
 void main()
 {
+	//INIT WEATHER BEFORE ECONOMY INIT------------------------
+	//Weather weather = g_Game.GetWeather();
+	//weather.MissionWeather(false);    // false = use weather controller from Weather.c
+	//weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
+	//weather.GetRain().Set( 0, 0, 1);
+	//weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
+
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )
 		ce.InitOffline();
 
-//GetCEApi().ExportProxyData( "7500 0 7500", 18000 );
+//GetCEApi().ExportProxyData( "7500 0 7500", 18000 );        
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
 	int reset_month = 9, reset_day = 20;
+	
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -30,69 +38,135 @@ void main()
 			}
 		}
 	}
+	
+    //CEApi TestHive = GetCEApi();
+    //TestHive.ExportProxyProto();
+    //TestHive.ExportProxyData( "8096 0 8096", 16384 );
+    //TestHive.ExportClusterData() ;	
+
 //EditorLoaderModule.ExportLootData = true;
 }
 
-class CustomMission: MissionServer
+class CustomMission : MissionServer
 {
-	void SetRandomHealth(EntityAI itemEnt)
-	{
-		if ( itemEnt )
-		{
-			float rndHlt = Math.RandomFloat( 0.45, 0.65 );
-			itemEnt.SetHealth01( "", "", rndHlt );
-		}
-	}
+    private const static string m_SpawnLoadoutDirectory = "$profile:SpawnLoadout/"; // root directory for SpawnLoadout
+    private const static string m_DonatorDirectory = m_SpawnLoadoutDirectory + "Donators/"; // directory for donator loadout text files
 
-	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
-	{
-		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer( identity, characterName, pos, 0, "NONE" );
-		Class.CastTo( m_player, playerEnt );
+    private const static string m_RegularLoadout = m_SpawnLoadoutDirectory + "Regular.txt"; // file for regular loadout
+    private const static string m_CommonItems = m_SpawnLoadoutDirectory + "CommonItems.txt"; // file for in common items for both regular and donator
 
-		GetGame().SelectPlayer( identity, m_player );
+    void CustomMission()
+    {
+        FileHandle templateFile;
 
-		return m_player;
-	}
+        if (!FileExist(m_SpawnLoadoutDirectory))
+        {
+            MakeDirectory(m_SpawnLoadoutDirectory)
 
-	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
-	{
-		EntityAI itemClothing;
-		EntityAI itemEnt;
-		ItemBase itemBs;
-		float rand;
+            // create default CommonItems.txt
+            templateFile = OpenFile(m_CommonItems, FileMode.WRITE);
+            FPrintln(templateFile, "Rag 4\nHuntingKnife\nMatchbox\nHatchet\nFlashlight\nBattery9V\nSodaCan_Cola\nBakedBeansCan");
+            CloseFile(templateFile);
 
-		itemClothing = player.FindAttachmentBySlotName( "Body" );
-		if ( itemClothing )
-		{
-			SetRandomHealth( itemClothing );
-			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
-			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
-			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
-			int rndIndex = Math.RandomInt( 0, 4 );
-			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
-			SetRandomHealth( itemEnt );
-			player.SetQuickBarEntityShortcut(itemEnt, 1);
+            // create default Regular.txt
+            templateFile = OpenFile(m_RegularLoadout, FileMode.WRITE);
+            FPrintln(templateFile, "BomberJacket_Grey\nJeans_Black\nTaloonBag_Blue\nAthleticShoes_Grey");
+            CloseFile(templateFile);
+        }
 
-			rand = Math.RandomFloatInclusive( 0.0, 1.0 );
-			if ( rand < 0.35 )
-				itemEnt = player.GetInventory().CreateInInventory( "Apple" );
-			else if ( rand > 0.65 )
-				itemEnt = player.GetInventory().CreateInInventory( "Pear" );
-			else
-				itemEnt = player.GetInventory().CreateInInventory( "Plum" );
-			player.SetQuickBarEntityShortcut(itemEnt, 3);
-			SetRandomHealth( itemEnt );
-		}
-		
-		itemClothing = player.FindAttachmentBySlotName( "Legs" );
-		if ( itemClothing )
-			SetRandomHealth( itemClothing );
-		
-		itemClothing = player.FindAttachmentBySlotName( "Feet" );
-	}
+        if (!FileExist(m_DonatorDirectory))
+        {
+            string template = GetDonatorFile("76561198135264603");
+
+            MakeDirectory(m_DonatorDirectory);
+
+            // create template donator file
+            templateFile = OpenFile(template, FileMode.WRITE);
+            FPrintln(templateFile, "BomberJacket_Blue\nJeans_Grey\nTaloonBag_Orange\nAthleticShoes_Brown");
+            CloseFile(templateFile);
+        }
+    }
+
+    //!!! REPLACES EXISTING METHOD
+    override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
+    {
+        player.RemoveAllItems(); // clear all default spawning items
+
+        FileHandle donatorFile;
+        string line;
+
+        TStringArray contents = new TStringArray();
+        string file = GetDonatorFile(player.GetIdentity().GetPlainId());
+
+        if (FileExist(file))
+        {
+            SpawnLoadout(player, ReadFileLines(file)); // spawn donator loadout
+            //player.SetPosition("4658.65 0 10317.65");
+            return;
+        }
+
+        SpawnLoadout(player, ReadFileLines(m_RegularLoadout)); // spawn regular player loadout
+    }
+
+    private void SpawnLoadout(PlayerBase player, ref TStringArray loadout)
+    {
+        FileHandle loadoutFile;
+        string line;
+
+        // creates clothes loadout
+        foreach (string clothes : loadout)
+            player.GetInventory().CreateInInventory(clothes);
+
+
+        // creates common items
+        TStringArray items = ReadFileLines(m_CommonItems);
+        foreach (string item : items)
+        {
+            if (item.Contains(" ")) // check for space, which signifies a quantity item
+            {
+                CreateQuantityItem(player, item);
+                continue;
+            }
+
+            player.GetInventory().CreateInInventory(item);
+        }
+    }
+
+    private void CreateQuantityItem(PlayerBase player, string item)
+    {
+        TStringArray quantity = new TStringArray();
+        item.Split(" ", quantity);
+
+        ItemBase quantityItem = player.GetInventory().CreateInInventory(quantity[0]);
+        quantityItem.SetQuantity(quantity[1].ToFloat());
+    }
+
+    private string GetDonatorFile(string id)
+    {
+        return string.Format("%1%2.txt", m_DonatorDirectory, id);
+    }
+
+    private TStringArray ReadFileLines(string path)
+    {
+        FileHandle file;
+        string line;
+
+        TStringArray contents = new TStringArray();
+
+        file = OpenFile(path, FileMode.READ);
+        while (FGets(file, line) > 0)
+        {
+            line.Trim();
+            if (line != string.Empty)
+            {
+                contents.Insert(line);
+                line = string.Empty;
+            }
+        }
+
+        CloseFile(file);
+        return contents;
+    }
 };
 
 Mission CreateCustomMission(string path)

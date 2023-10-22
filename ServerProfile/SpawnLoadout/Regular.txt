@@ -1,4 +1,5 @@
-BomberJacket_Grey
-Jeans_Black
-TaloonBag_Blue
-AthleticShoes_Grey
+Jaqueta_velha_guarda
+Calca_velha_guarda
+Chapeu_velha_guarda
+JoggingShoes_Black
+mochila_velha_guarda

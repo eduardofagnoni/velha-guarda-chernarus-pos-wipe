@@ -1,7 +1,4 @@
 Rag 4
-HuntingKnife
-Matchbox
-Hatchet
 Flashlight
 Battery9V
 SodaCan_Cola
