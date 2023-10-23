@@ -610,9 +610,10 @@
 		PlateCarrierPouches_Camo,	*,		100,		20
 		PlateCarrierPouches_Green,	*,		100,		20
 
-    <Category> Cinto
+    <Category> Cintos e bainhas
 		CivilianBelt,			*,		100,	30
 		MilitaryBelt,			*,		100,	30
+		NylonKnifeSheath,		*,		100,	30
 
     <Category> Bolsas
 		ChildBag_Red,			*,		20,		5
@@ -1066,38 +1067,38 @@
 <Trader> Munição
 
     <Category> Munições
-		Ammo_380,						1,		1,		-1
-		Ammo_9x19,						1,		1,		-1
-		Ammo_22,						1,		1,		-1
-		Ammo_45ACP,						1,		1,		-1
+		Ammo_380,						1,		2,		1
+		Ammo_9x19,						1,		2,		1
+		Ammo_22,						1,		2,		1
+		Ammo_45ACP,						1,		2,		1
 		Ammo_12gaPellets,				1,		3,		1
 		Ammo_12gaRubberSlug,			1,		3,		1
 		Ammo_12gaSlug,					1,		4,		2
 		Ammo_9x39,						1,		4,		2
 		Ammo_9x39AP,					1,		5,		3
 		Ammo_308Win,					1,		5,		3
-		Ammo_545x39,					1,		5,		3
-		Ammo_556x45,					1,		5,		3
-		Ammo_762x39,					1,		5,		3
-		Ammo_762x54,					1,		10,		6		
-		Ammo_556x45Tracer,				1,		10,		5
-		Ammo_545x39Tracer,				1,		10,		5
-		Ammo_357,						1,		10,		5
 		Ammo_308WinTracer,				1,		10,		5
+		Ammo_545x39,					1,		5,		3
+		Ammo_545x39Tracer,				1,		10,		5
+		Ammo_556x45,					1,		5,		3
+		Ammo_556x45Tracer,				1,		10,		5
+		Ammo_762x39,					1,		5,		3
 		Ammo_762x39Tracer,				1,		10,		5
+		Ammo_762x54,					1,		10,		6	
+		Ammo_762x54Tracer,				1,		20,		12		
+		Ammo_357,						1,		10,		5		
 		Ammo_Flare,						1,		15,		7
 	    Ammo_FlareBlue,					1,		15,		7
 	    Ammo_FlareGreen,				1,		15,		7
-	    Ammo_FlareRed,					1,		15,		7
-		Ammo_762x54Tracer,				1,		20,		12		
+	    Ammo_FlareRed,					1,		15,		7			
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,				*,		28,		-1
-		AmmoBox_9x19_25rnd,				*,		20,		-1
-		AmmoBox_45ACP_25rnd,			*,		20,		-1
+		AmmoBox_380_35rnd,				*,		28,		10
+		AmmoBox_9x19_25rnd,				*,		20,		10
+		AmmoBox_45ACP_25rnd,			*,		20,		10
 		AmmoBox_22_50Rnd,				*,		60,		20
 		AmmoBox_00buck_10rnd,			*,		24,		10
 		AmmoBox_12gaRubberSlug_10Rnd,	*,		24,		10
@@ -1105,16 +1106,16 @@
 		AmmoBox_9x39_20Rnd,				*,		32,		20
 		AmmoBox_9x39AP_20Rnd,			*,		80,		60
 		AmmoBox_308Win_20Rnd,			*,		80,		60
-		AmmoBox_545x39_20Rnd,			*,		80,		60
-		AmmoBox_556x45_20Rnd,			*,		80,		60
-		AmmoBox_762x39_20Rnd,			*,		80,		60
-		AmmoBox_762x54_20Rnd,			*,		200,	120		
-		AmmoBox_357_20Rnd,				*,		160,	80
 		AmmoBox_308WinTracer_20Rnd,		*,		160,	80
+		AmmoBox_545x39_20Rnd,			*,		80,		60
 		AmmoBox_545x39Tracer_20Rnd,		*,		160, 	80
+		AmmoBox_556x45_20Rnd,			*,		80,		60
 		AmmoBox_556x45Tracer_20Rnd,		*,		160,	80
+		AmmoBox_762x39_20Rnd,			*,		80,		60
 		AmmoBox_762x39Tracer_20Rnd,		*,		160,	80
-		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200
+		AmmoBox_762x54_20Rnd,			*,		200,	120	
+		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200	
+		AmmoBox_357_20Rnd,				*,		160,	80
 		
 	<Category> Magazines
 		Mag_IJ70_8Rnd,					*,		30,		15
@@ -1531,26 +1532,44 @@
 //***********************************************************************************************
 //***********************************************************************************************
 
-<Trader> Ferramentas
+<Trader> Caçador
 
     <Category> Carnes
-		ChickenBreastMeat,		S,		2,		1
-		GoatSteakMeat,			S,		3,		1
-		SheepSteakMeat,			S,		3,		1
-		PigSteakMeat,			S,		4,		2
-		BoarSteakMeat,			S,		4,		2
-		WolfSteakMeat,			S,		4,		2
-		DeerSteakMeat,			S,		5,		2
-		CowSteakMeat,			S,		5,		2	
-		Sardines,				S,		7,		4
-		Carp,					S,		10,		5
-		Mackerel,				S,		10,		5
+		ChickenBreastMeat,		S,		-1,		200
+		GoatSteakMeat,			S,		-1,		200
+		SheepSteakMeat,			S,		-1,		300
+		PigSteakMeat,			S,		-1,		200
+		BoarSteakMeat,			S,		-1,		300
+		WolfSteakMeat,			S,		-1,		400
+		DeerSteakMeat,			S,		-1,		300
+		CowSteakMeat,			S,		-1,		200
+		Sardines,				S,		-1,		100
+		Carp,					S,		-1,		100
+		Mackerel,				S,		-1,		100
+		BearSteakMeat,			S,		-1,		500
+
+	<Category> Pele de animal											
+        BearPelt,			    *,		-1,	        500
+        CowPelt,                *,      -1,   		500						
+        DeerPelt,               *,      -1,   		500						
+        GoatPelt,               *,      -1,   		500						
+        PigPelt,                *,      -1,   		500						
+        SheepPelt,              *,      -1,   		500						
+        WildboarPelt,           *,      -1,   		500						
+        WolfPelt,               *,      -1,   		500
 		
 	<Category> Partes de animais
-		Bone,					*,		2,		1
-		Lard,					*,		2,		1
-		Guts,					*,		2,		1
-		SmallGuts,				*,		2,		1	
+		Bone,					*,		-1,		10
+		Lard,					*,		-1,		10
+		Guts,					*,		-1,		10
+		SmallGuts,				*,		-1,		10
+
+	<Category> Sementes											
+        //GardenLime,			*,		20,		7
+        PepperSeedsPack,		*,		4, 		1
+        PumpkinSeedsPack,		*,		10, 	3
+        TomatoSeedsPack,		*,		4, 		1
+        ZucchiniSeedsPack,		*,		6, 		2
 
 
 
