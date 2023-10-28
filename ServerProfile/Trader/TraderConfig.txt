@@ -1549,18 +1549,18 @@
 		BearSteakMeat,			S,		-1,		500
 
 	<Category> Pele de animal											
-        BearPelt,			    *,		-1,	        500
-        CowPelt,                *,      -1,   		500						
-        DeerPelt,               *,      -1,   		500						
-        GoatPelt,               *,      -1,   		500						
-        PigPelt,                *,      -1,   		500						
-        SheepPelt,              *,      -1,   		500						
-        WildboarPelt,           *,      -1,   		500						
-        WolfPelt,               *,      -1,   		500
+        BearPelt,			    *,		-1,	    500
+        CowPelt,                *,      -1,   	500
+        DeerPelt,               *,      -1,   	500
+        GoatPelt,               *,      -1,   	500
+        PigPelt,                *,      -1,   	500
+        SheepPelt,              *,      -1,   	500
+        WildboarPelt,           *,      -1,   	500
+        WolfPelt,               *,      -1,   	500
 		
 	<Category> Partes de animais
 		Bone,					*,		-1,		10
-		Lard,					*,		-1,		10
+		Lard,					S,		-1,		10
 		Guts,					*,		-1,		10
 		SmallGuts,				*,		-1,		10
 
@@ -1963,8 +1963,13 @@
         Truck_01_WheelDouble,				*,		1000,	200
 		
 	<Category> Keys
-		VehicleKeyDuplicate,	K,		2000,	-1 		
-		VehicleKeyLost,    		KL,    	5000,   -1
+		VehicleKeyRed,			*,		1000,		10
+		VehicleKeyBlack,		*,		1000,		10
+		VehicleKeyGrayCyan,		*,		1000,		10
+		VehicleKeyYellow,		*,		1000,		10
+		VehicleKeyPurple,		*,		1000,		10
+		VehicleKeyDuplicate,	K,		2000,		-1
+		VehicleKeyLost,    		KL,    	5000,	  	-1
 
 	<Category> Garagem
 		GarageMod_ParkingMachineKit,		*,      3000,      -1

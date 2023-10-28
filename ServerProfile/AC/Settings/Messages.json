@@ -3,9 +3,27 @@
     "m_Messages": [
         {
             "m_Message": "Estamos com %PlayersCount% jogadores online agora.",
-            "m_Await": 30,
+            "m_Await": 60,
             "m_Interval": 600,
             "m_Notification": 1
+        },
+        {
+            "m_Message": "Fique atento nos horários de restart do servidor 00:00, 06:00, 12:00 e 18:00",
+            "m_Await": 120,
+            "m_Interval": 600,
+            "m_Notification": 2
+        },
+        {
+            "m_Message": "Utilizem os veículos por sua conta e risco, não devolvemos loot perdido.",
+            "m_Await": 180,
+            "m_Interval": 600,
+            "m_Notification": 3
+        },
+        {
+            "m_Message": "Atendimento somente com abertura de tickets no Discord.",
+            "m_Await": 240,
+            "m_Interval": 600,
+            "m_Notification": 4
         }
     ]
 }

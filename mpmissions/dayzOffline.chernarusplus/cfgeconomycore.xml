@@ -60,5 +60,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="types.xml" type="types"/>
 	</ce>
 
+	<!-- AC_mod_pack -->
+	<ce folder="_AC_MOD_PACK">
+        <file name="types.xml" type="types"/>
+	</ce>
+
 
 </economycore>

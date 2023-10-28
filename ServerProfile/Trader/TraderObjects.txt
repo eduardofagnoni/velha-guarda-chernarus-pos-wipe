@@ -19,7 +19,7 @@
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			3
-<TraderMarkerPosition>	8074.234863, 459.209686, 9309.925781
+<TraderMarkerPosition>	8075.237793, 459.172424, 9311.031250
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			4
@@ -96,8 +96,8 @@
 <ObjectAttachment>	NPC_DUMMY
 
 <Object> 			BVM_VendingMachine_weapons			            
-<ObjectPosition>	8074.234863, 459.209686, 9309.925781    		
-<ObjectOrientation>	-44.998825, 0.000000, 0.000000			            
+<ObjectPosition>	8075.237793, 459.172424, 9311.031250  		
+<ObjectOrientation>	-62.706821, 0.000000, 0.000000			            
 <ObjectAttachment>	NPC_DUMMY
 
 <Object> 			BVM_VendingMachine_ammunition			            

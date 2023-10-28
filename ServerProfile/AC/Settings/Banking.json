@@ -1,5 +1,5 @@
 {
-    "m_Enable": 1,
+    "m_Enable": 0,
     "m_Logging": 1,
     "m_ATMs": [
         {
@@ -18,9 +18,9 @@
         }
     ],
     "m_PayCheck": {
-        "m_Coin": "",
+        "m_Coin": "Real",
         "m_Amount": 500.0,
-        "m_MinPlayerCount": 40,
+        "m_MinPlayerCount": 2,
         "m_Groups": [
             {
                 "m_Description": "desc",
@@ -71,7 +71,7 @@
                 },
                 {
                     "m_Class": "Real_200",
-                    "m_Value": 100
+                    "m_Value": 200
                 }
             ]
         }

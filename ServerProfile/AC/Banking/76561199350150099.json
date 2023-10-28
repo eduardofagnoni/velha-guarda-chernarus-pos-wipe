@@ -1,7 +1,13 @@
 {
     "m_Name": "Tuty",
     "m_Steam": "76561199350150099",
-    "m_PayCheck": 0.0,
-    "m_Balances": [],
+    "m_PayCheck": 0.33328723907470705,
+    "m_Balances": [
+        {
+            "m_Coin": "Real",
+            "m_Bonus": 0,
+            "m_Amount": 98393
+        }
+    ],
     "m_Group": 0
 }
