@@ -202,7 +202,7 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_M200Cheytac">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
     <min>13</min>
@@ -278,7 +278,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_PKP">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>5000</lifetime>
     <restock>5200</restock>
     <min>13</min>
@@ -305,7 +305,7 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_RPK16_Black">
-    <nominal>14</nominal>
+    <nominal>44</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>12</min>
@@ -320,7 +320,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_RPK16_Green">
-    <nominal>13</nominal>
+    <nominal>43</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>11</min>
@@ -335,7 +335,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_RPK16_Tan">
-    <nominal>13</nominal>
+    <nominal>43</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>11</min>
@@ -364,7 +364,7 @@
     <value name="Tier2" />
   </type>
   <type name="PNC_W_AR15_Long">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>14</min>
@@ -377,7 +377,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AR15_Long_camo">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>14</min>
@@ -391,7 +391,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AR15_Long_kryp">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>14</min>
@@ -405,7 +405,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AR15_Long_hive">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>14</min>
@@ -415,14 +415,13 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AR15Skeleton">
-    <nominal>16</nominal>
+    <nominal>46</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>13</min>
+    <min>23</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -432,17 +431,16 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_SCARH">
-    <nominal>17</nominal>
+    <nominal>47</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>14</min>
+    <min>24</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_HoneyBadger">
@@ -459,7 +457,7 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_HoneyBadger_black">
-    <nominal>18</nominal>
+    <nominal>48</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>14</min>
@@ -473,7 +471,7 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_HoneyBadger_camo">
-    <nominal>16</nominal>
+    <nominal>46</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>12</min>
@@ -526,10 +524,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_Beowulf50">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>5600</lifetime>
     <restock>5000</restock>
-    <min>4</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -539,10 +537,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_Beowulf50_camo">
-    <nominal>10</nominal>
+    <nominal>20</nominal>
     <lifetime>5600</lifetime>
     <restock>5000</restock>
-    <min>5</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -552,10 +550,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_Beowulf50_kryp">
-    <nominal>0</nominal>
+    <nominal>30</nominal>
     <lifetime>5600</lifetime>
     <restock>5000</restock>
-    <min>0</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -565,10 +563,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_Beowulf50_hive">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>5600</lifetime>
     <restock>5000</restock>
-    <min>0</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -587,7 +585,6 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <usage name="Police" />
     <usage name="Military" />
     <value name="Tier4" />
   </type>
@@ -614,15 +611,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <usage name="Police" />
     <usage name="Military" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_M60">
-    <nominal>14</nominal>
+    <nominal>44</nominal>
     <lifetime>3600</lifetime>
     <restock>10000</restock>
-    <min>8</min>
+    <min>28</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -632,45 +628,42 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AX50_2">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>200</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Police" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AX50_2_camo">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>200</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Police" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AX50_2_hive">
-    <nominal>18</nominal>
+    <nominal>38</nominal>
     <lifetime>3600</lifetime>
     <restock>200</restock>
-    <min>4</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Police" />
     <value name="Tier4" />
   </type>
   <type name="PNC_W_SuperSniper">
@@ -703,10 +696,10 @@
     <value name="Tier2" />
   </type>
   <type name="PNC_W_RemingtonMSR">
-    <nominal>16</nominal>
+    <nominal>36</nominal>
     <lifetime>3600</lifetime>
     <restock>10800</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -743,10 +736,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_Tac21">
-    <nominal>15</nominal>
+    <nominal>45</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -756,10 +749,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_ORSIST5000">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>10600</lifetime>
     <restock>10800</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -782,10 +775,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AWM_Sand">
-    <nominal>14</nominal>
+    <nominal>44</nominal>
     <lifetime>10600</lifetime>
     <restock>10800</restock>
-    <min>11</min>
+    <min>21</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -795,10 +788,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_KIVAARI">
-    <nominal>23</nominal>
+    <nominal>63</nominal>
     <lifetime>10600</lifetime>
     <restock>10800</restock>
-    <min>10</min>
+    <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -821,10 +814,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_KIVAARI_hive">
-    <nominal>21</nominal>
+    <nominal>41</nominal>
     <lifetime>3600</lifetime>
     <restock>10800</restock>
-    <min>11</min>
+    <min>21</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -860,10 +853,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_AX50">
-    <nominal>14</nominal>
+    <nominal>34</nominal>
     <lifetime>10600</lifetime>
     <restock>10000</restock>
-    <min>9</min>
+    <min>19</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -886,10 +879,10 @@
     <value name="Tier4" />
   </type>
   <type name="PNC_W_BarretM82A1_Black">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>10600</lifetime>
     <restock>18000</restock>
-    <min>0</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1691,10 +1684,10 @@
     <value name="Tier3" />
   </type>
   <type name="PNC_W_RemingtonACR_Tan">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>3600</lifetime>
     <restock>3000</restock>
-    <min>8</min>
+    <min>18</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
