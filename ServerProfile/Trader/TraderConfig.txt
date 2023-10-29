@@ -1066,31 +1066,31 @@
 
 <Trader> Munição
 
-    <Category> Munições
-		Ammo_380,						1,		5,		2
-		Ammo_9x19,						1,		5,		2
-		Ammo_22,						1,		5,		2
-		Ammo_45ACP,						1,		5,		2
-		Ammo_12gaPellets,				1,		5,		2
-		Ammo_12gaRubberSlug,			1,		5,		2
-		Ammo_12gaSlug,					1,		5,		2
-		Ammo_9x39,						1,		5,		2
-		Ammo_9x39AP,					1,		6,		3
-		Ammo_308Win,					1,		6,		3
-		Ammo_308WinTracer,				1,		7,		3
-		Ammo_545x39,					1,		8,		3
-		Ammo_545x39Tracer,				1,		10,		5
-		Ammo_556x45,					1,		10,		5
-		Ammo_556x45Tracer,				1,		10,		5
-		Ammo_762x39,					1,		10,		5
-		Ammo_762x39Tracer,				1,		10,		5
-		Ammo_762x54,					1,		10,		5	
-		Ammo_762x54Tracer,				1,		12,		6		
-		Ammo_357,						1,		10,		5		
-		Ammo_Flare,						1,		10,		5
-	    Ammo_FlareBlue,					1,		10,		5
-	    Ammo_FlareGreen,				1,		10,		5
-	    Ammo_FlareRed,					1,		10,		5			
+//    <Category> Munições
+//		Ammo_380,						1,		5,		2
+//		Ammo_9x19,						1,		5,		2
+//		Ammo_22,						1,		5,		2
+//		Ammo_45ACP,						1,		5,		2
+//		Ammo_12gaPellets,				1,		5,		2
+//		Ammo_12gaRubberSlug,			1,		5,		2
+//		Ammo_12gaSlug,					1,		5,		2
+//		Ammo_9x39,						1,		5,		2
+//		Ammo_9x39AP,					1,		6,		3
+//		Ammo_308Win,					1,		6,		3
+//		Ammo_308WinTracer,				1,		7,		3
+//		Ammo_545x39,					1,		8,		3
+//		Ammo_545x39Tracer,				1,		10,		5
+//		Ammo_556x45,					1,		10,		5
+//		Ammo_556x45Tracer,				1,		10,		5
+//		Ammo_762x39,					1,		10,		5
+//		Ammo_762x39Tracer,				1,		10,		5
+//		Ammo_762x54,					1,		10,		5	
+//		Ammo_762x54Tracer,				1,		12,		6		
+//		Ammo_357,						1,		10,		5		
+//		Ammo_Flare,						1,		10,		5
+//	    Ammo_FlareBlue,					1,		10,		5
+//	    Ammo_FlareGreen,				1,		10,		5
+//	    Ammo_FlareRed,					1,		10,		5			
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -1598,7 +1598,7 @@
 		PNC_W_Ash127_camo,				*,	25000,	5000
 		PNC_W_Aurora,					*,	25000,	5000
 		PNC_W_AWM,						*,	25000,	5000
-		PNC_W_AWM_Sand,					*,	25000,	5000
+//		PNC_W_AWM_Sand,					*,	25000,	5000  (Bugada)
 		PNC_W_AWM_Snow,					*,	25000,	5000
 		PNC_W_AX50_2,					*,	25000,	5000
 		PNC_W_AX50_2_camo,				*,	25000,	5000
@@ -1788,22 +1788,22 @@
 <Trader> Veiculos
 
     <Category> Veiculos Vanilla
-		OffroadHatchback,			VNK,		14000,	5000	
-		OffroadHatchback_Blue,		VNK,		14000,	5000
-		OffroadHatchback_White,		VNK,		14000,	5000
-		Hatchback_02,				VNK,		16000,	6000
-		Hatchback_02_Blue,			VNK,		16000,	6000
-		Hatchback_02_Black,			VNK,		16000,	6000
-		Sedan_02,					VNK,		18000,	7000
-		Sedan_02_Red,				VNK,		18000,	7000
-		Sedan_02_Grey,				VNK,		18000,	7000
-		CivilianSedan,				VNK,		20000,	8000
-		CivilianSedan_Wine,			VNK,		20000,	8000
-		CivilianSedan_Black,		VNK,		20000,	8000
-		Offroad_02,					VNK,		50000,	10000
-		Truck_01_Covered,			VNK,		50000,	10000
-        Truck_01_Covered_Blue,		VNK,		50000,	10000
-        Truck_01_Covered_Orange,	VNK,		50000,	10000
+		OffroadHatchback,			VNK,		140000,	25000	
+		OffroadHatchback_Blue,		VNK,		140000,	25000
+		OffroadHatchback_White,		VNK,		140000,	25000
+		Hatchback_02,				VNK,		160000,	30000
+		Hatchback_02_Blue,			VNK,		160000,	30000
+		Hatchback_02_Black,			VNK,		160000,	30000
+		Sedan_02,					VNK,		18000,	35000
+		Sedan_02_Red,				VNK,		180000,	35000
+		Sedan_02_Grey,				VNK,		180000,	35000
+		CivilianSedan,				VNK,		200000,	40000
+		CivilianSedan_Wine,			VNK,		200000,	40000
+		CivilianSedan_Black,		VNK,		200000,	40000
+		Offroad_02,					VNK,		500000,	50000
+		Truck_01_Covered,			VNK,		500000,	50000
+        Truck_01_Covered_Blue,		VNK,		500000,	50000
+        Truck_01_Covered_Orange,	VNK,		500000,	50000
 	
 	<Category> Partes de Veículos
 		HeadlightH7_Box,					*,		30,		15
