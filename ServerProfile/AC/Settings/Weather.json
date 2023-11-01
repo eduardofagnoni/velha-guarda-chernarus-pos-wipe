@@ -8,8 +8,8 @@
     "m_DefaultRain": 0,
     "m_DefaultOvercast": 0,
     "m_DefaultWind": 0,
-    "m_IntervalMin": 600,
-    "m_IntervalMax": 900,
+    "m_IntervalMin": 2400,
+    "m_IntervalMax": 3600,
     "m_Weathers": [
         {
             "m_Name": "mixed",

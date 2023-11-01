@@ -5089,7 +5089,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="ClaymoreMine">
+    <!-- <type name="ClaymoreMine">
         <nominal>0</nominal>
         <lifetime>432000</lifetime>
         <restock>0</restock>
@@ -5103,7 +5103,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Unique"/>
-    </type>
+    </type> -->
     <type name="Cleaver">
         <nominal>55</nominal>
         <lifetime>14400</lifetime>
@@ -21738,9 +21738,6 @@
         <category name="food"/>
         <usage name="Farm"/>
     </type>
-
-    
-
     <type name="Barrel_VelhaGuarda">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
