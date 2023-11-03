@@ -65,5 +65,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="types.xml" type="types"/>
 	</ce>
 
+	<!-- Dodge_rust -->
+	<ce folder="_Dodge_rust">
+        <file name="types.xml" type="types"/>
+	</ce>
+
 
 </economycore>

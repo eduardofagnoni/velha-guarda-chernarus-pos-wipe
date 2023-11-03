@@ -26,7 +26,7 @@ SET /a LOOPS=0
 ::@PVEZ Reloaded
 ::@BetterVendingMachines
 
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile "-mod=@CF;@Dabs Framework;@DayZ Editor Loader;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@ABFix;@AdvancedBanking;@Basic Territories;@BurningBarrels;@FlipTransport;@Garage;@GarageFix;@Trader;@TraderFixesAndFeatures;@VanillaPlusPlusMap;@PVEZ Reloaded;@PVEZMarkersOnVPPMap;@BetterVendingMachines;@LIGHTS;@Code Lock;@MuchStuffPack;@BuilderItems;@Care Packages;@BR ARMY CLOTHING;@SpawnerBubaku;@SchanaModParty" -cpuCount=4 -dologs -adminlog -netlog -freezecheck
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile "-mod=@CF;@Dabs Framework;@DayZ Editor Loader;@VPPAdminTools;@AC-Mod-Pack;@Velha_Guarda_Chernarus;@AdvancedBanking V2;@Basic Territories;@BurningBarrels;@FlipTransport;@Garage;@GarageFix;@Trader;@TraderFixesAndFeatures;@VanillaPlusPlusMap;@PVEZ Reloaded;@PVEZMarkersOnVPPMap;@BetterVendingMachines;@LIGHTS;@Code Lock;@MuchStuffPack;@BuilderItems;@Care Packages;@BR ARMY CLOTHING;@SpawnerBubaku;@SchanaModParty;@dodge_rust_Z_radash" -cpuCount=4 -dologs -adminlog -netlog -freezecheck
 ECHO [INFO] Servidor Iniciado em: %DATE%, %TIME%
 SET data2="%DATE%"
 SET time2="%TIME%"
