@@ -1,0 +1,7 @@
+{
+    "m_Enable": 1,
+    "m_ShowOnMap": 1,
+    "m_TimeDelay": 10,
+    "m_TimeDelete": 7200,
+    "m_Container": "AC_Tombstone_01"
+}

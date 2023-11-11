@@ -1,0 +1,68 @@
+{
+    "m_Enable": 1,
+    "m_Direct": 0,
+    "m_Global": 1,
+    "m_Lines": 12,
+    "m_Timeout": 20,
+    "m_Logging": 1,
+    "m_Commands": 1,
+    "m_Waiting": 0,
+    "m_Distance": 50,
+    "m_Color": {
+        "m_A": 255,
+        "m_R": 255,
+        "m_G": 255,
+        "m_B": 255
+    },
+    "m_Admin": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 191,
+            "m_B": 255
+        },
+        "m_Lenght": 200
+    },
+    "m_Event": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Lenght": 120
+    },
+    "m_Game": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Lenght": 120
+    },
+    "m_Group": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 200,
+            "m_B": 0
+        },
+        "m_Lenght": 75
+    },
+    "m_User": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 228,
+            "m_B": 0
+        },
+        "m_Lenght": 120
+    },
+    "m_Blacklist": [],
+    "m_Filter": [
+        "fuck",
+        "dumbass"
+    ],
+    "m_Webhook": "https://discord.com/api/webhooks/1073067687506354227/L2VBvIHQUhFiwYMxKn5MGeMrHAI4CV8oiBqUr-t6YlgD3caIGI0VwH6r2uoy5mAk_RvR"
+}

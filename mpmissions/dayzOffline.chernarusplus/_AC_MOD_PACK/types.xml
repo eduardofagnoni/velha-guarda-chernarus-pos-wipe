@@ -423,34 +423,34 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="AC_VirtualStorage_MediumTent_300">
+    <!-- <type name="AC_VirtualStorage_MediumTent_300">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_MediumTentGreen_300">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_MediumTentGreen_300">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_MediumTentOrange_300">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_MediumTentOrange_300">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_LargeTent_500">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_LargeTent_500">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_LargeTent_750">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_LargeTent_750">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_CarTent_500">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_CarTent_500">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AC_VirtualStorage_CarTent_1000">
+    </type> -->
+    <!-- <type name="AC_VirtualStorage_CarTent_1000">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+    </type> -->
     <!--AC-WelcomePack-->
     <type name="AC_WelcomePack_SeaChest">
         <lifetime>1800</lifetime>

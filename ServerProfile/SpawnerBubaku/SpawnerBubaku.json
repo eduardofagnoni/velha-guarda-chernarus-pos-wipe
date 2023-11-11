@@ -16,13 +16,14 @@
             "spawnerpos": [
                 "832.718 3.16351 1215.14"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_HK416"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_1Mag",
@@ -39,13 +40,14 @@
             "spawnerpos": [
                 "830.271 3.42599 1213.66"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_HK416_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_2Ute",
@@ -62,13 +64,14 @@
             "spawnerpos": [
                 "832.961 3.28413 1214.25"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Chemlight_White"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_2Zmb",
@@ -85,7 +88,7 @@
             "spawnerpos": [
                 "839.903 2.58845 1204.2"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -98,7 +101,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_3Gun",
@@ -115,13 +119,14 @@
             "spawnerpos": [
                 "799.781 2.47292 1200.88"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "FAMAS"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_3MAG",
@@ -138,13 +143,14 @@
             "spawnerpos": [
                 "809.031 2.47396 1204.32"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_FAMAS_25Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_4Gun",
@@ -161,13 +167,14 @@
             "spawnerpos": [
                 "780.107 2.45652 1192.08"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Deagle_Gold"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_4Mag",
@@ -184,13 +191,14 @@
             "spawnerpos": [
                 "788.061 2.45803 1194.36"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_Deagle_9rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_5Gun",
@@ -207,13 +215,14 @@
             "spawnerpos": [
                 "769.227 2.59862 1186.21"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Crossbow_Wood"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_6Ves",
@@ -230,13 +239,14 @@
             "spawnerpos": [
                 "826.72 3.34098 1168.58"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "CombatBoots_Black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_7Ves",
@@ -253,13 +263,14 @@
             "spawnerpos": [
                 "815.422 3.60201 1167.75"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Canteen"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_8Zmb",
@@ -276,7 +287,7 @@
             "spawnerpos": [
                 "818.6 2.3601 1177.64"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -289,7 +300,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_9Gun",
@@ -306,13 +318,14 @@
             "spawnerpos": [
                 "816.922 3.41537 1151.64"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "FAL"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_9Mag",
@@ -329,13 +342,14 @@
             "spawnerpos": [
                 "814.918 3.41413 1155.84"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_FAL_20Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_AGun",
@@ -352,13 +366,14 @@
             "spawnerpos": [
                 "758.87 3.19526 1139.83"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Aug"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul1_AMag",
@@ -375,13 +390,14 @@
             "spawnerpos": [
                 "758.623 3.19539 1140.48"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_Aug_30Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul2_0Gat",
@@ -398,7 +414,7 @@
             "spawnerpos": [
                 "785.388 12.1286 1128.62"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -411,7 +427,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul2_1Med",
@@ -428,13 +445,14 @@
             "spawnerpos": [
                 "761.001 13.1074 1141.03"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "BandageDressing"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul2_2Med",
@@ -451,13 +469,14 @@
             "spawnerpos": [
                 "764.716 13.2912 1138.39"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "FirstAidKit"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul2_3Ali",
@@ -474,13 +493,14 @@
             "spawnerpos": [
                 "774.083 13.1874 1096.63"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Honey"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul3_0Gat",
@@ -497,7 +517,7 @@
             "spawnerpos": [
                 "844.136 12.1306 1070.36"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -510,7 +530,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul3_1Gun",
@@ -527,13 +548,14 @@
             "spawnerpos": [
                 "860.056 13.0821 1088.56"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M200"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul3_1Mag",
@@ -550,13 +572,14 @@
             "spawnerpos": [
                 "860.918 13.0797 1086.86"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M200_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul4_0Gat",
@@ -573,7 +596,7 @@
             "spawnerpos": [
                 "849.518 12.1255 1062.47"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -586,7 +609,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul4_1Gun",
@@ -603,13 +627,14 @@
             "spawnerpos": [
                 "870.022 13.0535 1074.07"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M249"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul4_1Mag",
@@ -626,13 +651,14 @@
             "spawnerpos": [
                 "870.022 13.0535 1074.07"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M249_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul4_2Gun",
@@ -649,13 +675,14 @@
             "spawnerpos": [
                 "851.827 12.8625 1087.89"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M700"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul4_2Mag",
@@ -672,13 +699,14 @@
             "spawnerpos": [
                 "851.827 12.8625 1087.89"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M700_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul5_0Gat",
@@ -695,7 +723,7 @@
             "spawnerpos": [
                 "849.72 2.12858 1058.04"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -708,7 +736,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul5_1Gun",
@@ -725,13 +754,14 @@
             "spawnerpos": [
                 "833.823 3.06661 1053.22"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "SNAFU_AK308"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul5_1Mag",
@@ -748,13 +778,14 @@
             "spawnerpos": [
                 "833.679 3.06661 1052.89"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "SNAFU_AK308_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul5_2Gun",
@@ -771,13 +802,14 @@
             "spawnerpos": [
                 "865.306 2.96018 1030.62"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "SNAFU_AWM_Gun"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerSul5_2Mag",
@@ -794,13 +826,14 @@
             "spawnerpos": [
                 "865.025 3.08566 1031.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "SNAFU_AWM_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "Você entrou no Bunker Norte!",
@@ -817,13 +850,14 @@
             "spawnerpos": [
                 "5482.13 483.796 14909.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_HK416"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_1Mag",
@@ -840,13 +874,14 @@
             "spawnerpos": [
                 "5482.42 483.924 14910.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_HK416_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_2Zmb",
@@ -863,7 +898,7 @@
             "spawnerpos": [
                 "5487.62 483.121 14936.1"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 6,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -879,7 +914,8 @@
                 "FS_Izlome",
                 "FS_KrovososType2_Volkodav_Ser",
                 "FS_DogZBM"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "PERIGOS À VISTA!!",
@@ -896,13 +932,14 @@
             "spawnerpos": [
                 "5514.33 482.956 14919"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Canteen"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_3Gun",
@@ -919,13 +956,14 @@
             "spawnerpos": [
                 "5499.17 482.38 14975.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "FAMAS"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_3MAG",
@@ -942,13 +980,14 @@
             "spawnerpos": [
                 "5499.8 482.386 14975.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_FAMAS_25Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_3Zmb",
@@ -965,7 +1004,7 @@
             "spawnerpos": [
                 "5548.04 482.368 14966.6"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -981,7 +1020,8 @@
                 "FS_Izlome",
                 "FS_KrovososType2_Volkodav_Ser",
                 "FS_DogZBM"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "Daqui para frente tudo é perigo!",
@@ -998,13 +1038,14 @@
             "spawnerpos": [
                 "5572.11 488.5 15030.2"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "MMG_supply_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_4Gun",
@@ -1021,13 +1062,14 @@
             "spawnerpos": [
                 "5554.7 488.659 15038.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Deagle_Gold"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_4Mag",
@@ -1044,13 +1086,14 @@
             "spawnerpos": [
                 "5555.27 488.659 15038.6"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_Deagle_9rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_5Gun",
@@ -1067,13 +1110,14 @@
             "spawnerpos": [
                 "5540.07 488.487 15030.0"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Crossbow_Wood"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_6Zmb",
@@ -1090,7 +1134,7 @@
             "spawnerpos": [
                 "5520.1 488.675 15021.1"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1106,7 +1150,8 @@
                 "FS_Izlome",
                 "FS_KrovososType2_Volkodav_Ser",
                 "FS_DogZBM"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_6Ves",
@@ -1123,13 +1168,14 @@
             "spawnerpos": [
                 "5512.93 489.806 15041.7"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "CombatBoots_Black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_7Ves",
@@ -1146,13 +1192,14 @@
             "spawnerpos": [
                 "5502.74 489.444 15006"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Canteen"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_8Zmb",
@@ -1169,7 +1216,7 @@
             "spawnerpos": [
                 "5560.14 503.353 15040.1"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1182,7 +1229,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "Agora você está no caminho certo!",
@@ -1199,13 +1247,14 @@
             "spawnerpos": [
                 "5528.69 482.991 15122.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "MMG_supply_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_9Gun",
@@ -1222,13 +1271,14 @@
             "spawnerpos": [
                 "5508.6 481.972 15139.2"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "FAL"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_9Mag",
@@ -1245,13 +1295,14 @@
             "spawnerpos": [
                 "5508.09 481.972 15137.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_FAL_20Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_9Zmb",
@@ -1268,7 +1319,7 @@
             "spawnerpos": [
                 "5468.82 483.568 15126.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1281,7 +1332,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "Você precisa passar por estes canos e chegar ao outro lado!",
@@ -1298,13 +1350,14 @@
             "spawnerpos": [
                 "5442.41 483.572 15121"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "MMG_supply_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_AGun",
@@ -1321,13 +1374,14 @@
             "spawnerpos": [
                 "5467.85 488.683 15054.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Aug"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_AMag",
@@ -1344,13 +1398,14 @@
             "spawnerpos": [
                 "5475.03 488.683 15055.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Mag_Aug_30Rnd"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor1_9Zmb",
@@ -1367,7 +1422,7 @@
             "spawnerpos": [
                 "5461.46 488.67 15038.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1380,7 +1435,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "Ainda lhe resta muita vida? Vai precisar de sorte!",
@@ -1397,7 +1453,7 @@
             "spawnerpos": [
                 "5465.8 518.458 15006.7"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1410,7 +1466,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor2_1Med",
@@ -1427,13 +1484,14 @@
             "spawnerpos": [
                 "5432.24 518.426 15027.6"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "BandageDressing"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor2_3Ali",
@@ -1450,13 +1508,14 @@
             "spawnerpos": [
                 "5423.24 518.429 15016.4"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Honey"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "UAU!! Temos companhia!",
@@ -1473,7 +1532,7 @@
             "spawnerpos": [
                 "5461.06 533.641 15018"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -1486,7 +1545,8 @@
                 "ZmbM_Mummy",
                 "ZmbM_PolicemanFat",
                 "FS_WolfZmb_black"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor3_1Gun",
@@ -1503,13 +1563,14 @@
             "spawnerpos": [
                 "5463.02 533.641 15016.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M200"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor3_1Mag",
@@ -1526,13 +1587,14 @@
             "spawnerpos": [
                 "5462.81 533.641 15017.4"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M200_Mag"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor4_1Gun",
@@ -1549,13 +1611,14 @@
             "spawnerpos": [
                 "5459.6 534.849 15017.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M249"
-            ]
+            ],
+            "bubakinventory": []
         },
         {
             "name": "BunkerNor4_1Mag",
@@ -1572,13 +1635,14 @@
             "spawnerpos": [
                 "5458.6 534.726 15017.8"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
                 "GCGN_M249_Mag"
-            ]
+            ],
+            "bubakinventory": []
         }
     ]
 }

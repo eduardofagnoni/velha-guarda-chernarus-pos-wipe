@@ -1,0 +1,160 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Óculos",
+                "Armbands",
+                "Luvas",
+                "Chapéus e bonés",
+                "Capacetes",
+                "Máscaras",
+                "Camisas",
+                "Moletons e suéteres",
+                "Coletes",
+                "Jaquetas e Casacos",
+                "Saias e Vestidos",
+                "Calças",
+                "Sapatos e botas",
+                "Ghillie",
+                "Coldre e bolsas",
+                "Cintos e bainhas",
+                "Bolsas",
+                "Squad EB",
+                "Squad Naval",
+                "Squad FAB",
+                "Squad Bope",
+                "Squad Desert",
+                "Squad Urban",
+                "Squad Multicam Black"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Suprimentos médicos",
+                "Remédios"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Vegetais",
+                "Comida enlatada",
+                "Bebidas"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Armas secundárias",
+                "Rifles",
+                "Espingardas",
+                "Metralhadoras",
+                "Rifles de assalto",
+                "Rifles de precisão",
+                "Armas PNC somente venda"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Magazines",
+                "Munição",
+                "Granadas"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Protetores de mão",
+                "Buttstocks",
+                "Optics",
+                "Supressores",
+                "Compensadores",
+                "Baionetas",
+                "Flashlights"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "Melee"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Ferramentas (pequenas)",
+                "Ferramentas (grandes)",
+                "Eletrônicas",
+                "Fogo e Luzes",
+                "Suprimentos para culinária e caça",
+                "Suprimentos de ferragens",
+                "Sementes e fertilizante",
+                "Urso de pelúcia"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 8,
+            "Categories": [
+                "Bandeiras"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 9,
+            "Categories": [
+                "Carnes",
+                "Pele de animal",
+                "Partes de animais",
+                "Sementes"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 10,
+            "Categories": [
+                "Armas PNC",
+                "Magazines PNC",
+                "Optics PNC",
+                "Supressores PNC",
+                "Guardas de mão PNC",
+                "Buttstocks PNC",
+                "Munição PNC"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 11,
+            "Categories": [
+                "Veiculos Vanilla",
+                "Partes de Veículos",
+                "Ferramentas",
+                "Garagem"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}

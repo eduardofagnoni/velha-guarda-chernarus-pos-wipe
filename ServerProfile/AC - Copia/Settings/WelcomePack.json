@@ -1,0 +1,121 @@
+{
+    "m_Enable": 1,
+    "m_Logging": 1,
+    "m_Container": "AC_WelcomePack_SeaChest",
+    "m_QuantityMax": 70,
+    "m_Items": [
+        {
+            "m_Item": "TerritoryFlagKit",
+            "m_Chance": 100,
+            "m_StackMin": 1,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "MetalWire",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 2,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "NailBox",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Pickaxe",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "SledgeHammer",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "WoodAxe",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Rope",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 2,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Stone",
+            "m_Chance": 80,
+            "m_StackMin": 0,
+            "m_QuantityMax": 32,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Flag_APA",
+            "m_Chance": 25,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Flag_Altis",
+            "m_Chance": 25,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Flag_BabyDeer",
+            "m_Chance": 25,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Flag_Bear",
+            "m_Chance": 25,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "WoodenLog",
+            "m_Chance": 90,
+            "m_StackMin": 0,
+            "m_QuantityMax": 8,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Hatchet",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "HandSaw",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        }
+    ],
+    "m_Messages": {
+        "m_PackDelivered": "O pacote foi entregue.",
+        "m_AlreadyReceived": "Você já recebeu o pacote.",
+        "m_WebhookInformation": "O sobrevivente %PlayerName% recebeu o pacote de boas-vindas."
+    },
+    "m_NotificationTime": 10,
+    "m_NotificationInChat": 0,
+    "m_Webhook": "https://discord.com/api/webhooks/1146176898121080912/7Sf59fq-YdZVSUbzhQWvTzX5y6nFFP7OsuNxRxWxzCaaZBsMctAAzW3D0rj7zf6gkplC"
+}

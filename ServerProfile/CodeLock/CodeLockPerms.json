@@ -3,16 +3,16 @@
         "playerId": "76561198363861269",
         "playerPerms": {
             "CanOpenLocks": "true",
-            "CanChangePasscodes": "false",
-            "CanRemoveLocks": "false"
+            "CanChangePasscodes": "true",
+            "CanRemoveLocks": "true"
         }
     },
     {
         "playerId": "76561199350150099",
         "playerPerms": {
             "CanOpenLocks": "true",
-            "CanChangePasscodes": "false",
-            "CanRemoveLocks": "false"
+            "CanChangePasscodes": "true",
+            "CanRemoveLocks": "true"
         }
     }
 ]

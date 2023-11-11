@@ -1,8 +1,8 @@
 {
     "m_Admins": [
         {
-            "m_PlainID": "ExampleSteamID",
-            "m_Name": "ExampleAdminName",
+            "m_PlainID": "76561198363861269",
+            "m_Name": "Fagnoni",
             "m_permissions": {
                 "m_CanUseServerConfig": 1,
                 "m_CanUsePlayersBankData": 1,
@@ -13,8 +13,8 @@
             }
         },
         {
-            "m_PlainID": "AnotherExampleSteamID",
-            "m_Name": "ExampleAdminName",
+            "m_PlainID": "76561199350150099",
+            "m_Name": "Tuty",
             "m_permissions": {
                 "m_CanUseServerConfig": 1,
                 "m_CanUsePlayersBankData": 1,

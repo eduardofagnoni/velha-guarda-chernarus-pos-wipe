@@ -1,0 +1,67 @@
+{
+    "m_Enable": 0,
+    "m_PlayerMarker": 1,
+    "m_Player3DMarkers": 1,
+    "m_PlayerPosition": 1,
+    "m_RequiredMapItem": 0,
+    "m_BackgroundMarker": {
+        "m_A": 70,
+        "m_R": 0,
+        "m_G": 0,
+        "m_B": 0
+    },
+    "m_ServerMarkers": [
+        {
+            "m_Name": "Velha Guarda",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 8085.521484375,
+                "m_Y": 463.8623962402344,
+                "m_Z": 9321.0263671875
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Caçador",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 10813.0341796875,
+                "m_Y": 340.146240234375,
+                "m_Z": 12841.62109375
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Contrabandista",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 4088.33203125,
+                "m_Y": 383.9129943847656,
+                "m_Z": 11736.466796875
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        }
+    ],
+    "m_ServerZones": []
+}

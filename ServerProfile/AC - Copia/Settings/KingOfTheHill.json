@@ -1,0 +1,1430 @@
+{
+    "m_Enable": 1,
+    "m_Logging": 1,
+    "m_ShowOnMap": 1,
+    "m_TimeStartMin": 600,
+    "m_TimeStartMax": 800,
+    "m_CaptureTime": 500,
+    "m_EventTimeout": 3600,
+    "m_TimeInterval": 4600,
+    "m_MinPlayerCount": 1,
+    "m_Locations": [
+        {
+            "m_Position": {
+                "m_N": "Nort-West Airfield",
+                "m_X": 4497.509765625,
+                "m_Y": 10351.1904296875
+            },
+            "m_EventRadius": 100,
+            "m_CaptureRadius": 20,
+            "m_RewardPools": [
+                "supplies",
+                "weapons",
+                "construção",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Tisy Military",
+                "m_X": 1564.1500244140626,
+                "m_Y": 14064.8203125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "weapons",
+                "Munição",
+                "cascagrossa",
+                "supplies"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_HIMERA_v1",
+                "FS_HIMERA_v1",
+                "FS_Polter_Invz",
+                "FS_Polter_Invz",
+                "FS_Polter_Invz",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Krasno Airfield",
+                "m_X": 12166.419921875,
+                "m_Y": 12644.650390625
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "weapons",
+                "supplies",
+                "construção",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Polter_Invz",
+                "FS_Polter_Invz",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Chernogorsk",
+                "m_X": 7196.8701171875,
+                "m_Y": 3548.7099609375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Elecktrozavodsk",
+                "m_X": 9592.58984375,
+                "m_Y": 2086.110107421875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Zelenogorsk",
+                "m_X": 2359.260009765625,
+                "m_Y": 5086.9501953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Polter_Invz",
+                "FS_Polter_Invz",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "CTAPOE",
+                "m_X": 10058.7099609375,
+                "m_Y": 5470.919921875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "ORLOVETS",
+                "m_X": 12129.740234375,
+                "m_Y": 7283.8701171875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "POLANA",
+                "m_X": 10776.1103515625,
+                "m_Y": 8038.22021484375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "GORKA",
+                "m_X": 9479.099609375,
+                "m_Y": 8804.2197265625
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "RATNOE",
+                "m_X": 6243.25,
+                "m_Y": 12732.9296875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "GRISHINO",
+                "m_X": 6151.39013671875,
+                "m_Y": 10055.2998046875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "ROGOVO",
+                "m_X": 4857.5400390625,
+                "m_Y": 6741.4501953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "ZVIR",
+                "m_X": 478.2699890136719,
+                "m_Y": 5313.4501953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "TRI KRESTA",
+                "m_X": 327.1099853515625,
+                "m_Y": 9359.0400390625
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "LOPATINO",
+                "m_X": 2670.330078125,
+                "m_Y": 9979.48046875
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "KALINKA",
+                "m_X": 3363.429931640625,
+                "m_Y": 11266.5302734375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "KRASNOE",
+                "m_X": 6509.1201171875,
+                "m_Y": 14972.1396484375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "SEVEROGRAD",
+                "m_X": 8144.169921875,
+                "m_Y": 12871.4501953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "TUROVO",
+                "m_X": 13720.5703125,
+                "m_Y": 14036.990234375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "BELAYA POLYANA",
+                "m_X": 14081.7001953125,
+                "m_Y": 14919.6396484375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "SVETLOJARSK",
+                "m_X": 13940.990234375,
+                "m_Y": 13234.76953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "supplies",
+                "construção",
+                "Military",
+                "Munição"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "SKALISTY",
+                "m_X": 13642.3203125,
+                "m_Y": 2960.02001953125
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "Military",
+                "Munição",
+                "cascagrossa"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "FS_Polter_Invz",
+                "FS_HIMERA_v1",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "Airfield de Balotas",
+                "m_X": 5107.85009765625,
+                "m_Y": 2425.85009765625
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "Military",
+                "Munição",
+                "cascagrossa"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        },
+        {
+            "m_Position": {
+                "m_N": "KAMENKA",
+                "m_X": 1858.6400146484376,
+                "m_Y": 2209.56005859375
+            },
+            "m_EventRadius": 80,
+            "m_CaptureRadius": 10,
+            "m_RewardPools": [
+                "Military",
+                "Munição",
+                "cascagrossa"
+            ],
+            "m_Infecteds": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_CitizenASkinny_Brown",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "FS_Snork_Boss",
+                "ZmbM_CitizenASkinny_Red",
+                "Animal_UrsusArctos",
+                "Animal_CanisLupus_White",
+                "FS_Snork_Boss",
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_Grey"
+            ]
+        }
+    ],
+    "m_RewardPools": [
+        {
+            "m_Name": "supplies",
+            "m_Container": "AC_KingOfTheHill_SeaChest",
+            "m_QuantityMax": 30,
+            "m_Items": [
+                {
+                    "m_Item": "Apple",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BandageDressing",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 8,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "WaterBottle",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "VitaminBottle",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Tomato",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PainkillerTablets",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "FirstAidKit",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Rice",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 8,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "CharcoalTablets",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "SpaghettiCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 8,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Canteen",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 4,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TetracyclineAntibiotics",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "BakedBeansCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 8,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Heatpack",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "TacticalBaconCan",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 8,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Name": "weapons",
+            "m_Container": "AC_KingOfTheHill_SeaChest",
+            "m_QuantityMax": 20,
+            "m_Items": [
+                {
+                    "m_Item": "Battery9V",
+                    "m_Chance": 90,
+                    "m_StackMin": 75,
+                    "m_QuantityMax": 6,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_SCARH_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_MoreMag_Fal_50Rnd",
+                    "m_Chance": 25,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Suppressor556mm",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Suppressor_762x39mm_Legion",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Suppressor_338",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Mag_PKP_200Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_M200Cheytac",
+                    "m_Chance": 30,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_M200_Mag",
+                    "m_Chance": 30,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_PKP",
+                    "m_Chance": 30,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Fal_OeBttstckWooden",
+                    "m_Chance": 75,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Suppressor_408Cheytac",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_SCAR",
+                    "m_Chance": 40,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Fal_Compensator_1",
+                    "m_Chance": 30,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_Fal",
+                    "m_Chance": 20,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Name": "construção",
+            "m_Container": "AC_KingOfTheHill_SeaChest",
+            "m_QuantityMax": 15,
+            "m_Items": [
+                {
+                    "m_Item": "SledgeHammer",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Hacksaw",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Hatchet",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Pickaxe",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 1,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "CodeLock",
+                    "m_Chance": 90,
+                    "m_StackMin": 2,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "NailBox",
+                    "m_Chance": 90,
+                    "m_StackMin": 5,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Pickaxe",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 3,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "FirefighterAxe_Green",
+                    "m_Chance": 90,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Name": "Munição",
+            "m_Container": "AC_KingOfTheHill_SeaChest",
+            "m_QuantityMax": 50,
+            "m_Items": [
+                {
+                    "m_Item": "AmmoBox_308Win_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AmmoBox_308WinTracer_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AmmoBox_762x54Tracer_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "Ammo_12gaSlug",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "AmmoBox_408CheyTac_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 100,
+                    "m_QuantityMax": 2,
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Name": "cascagrossa",
+            "m_Container": "AC_KingOfTheHill_SeaChest",
+            "m_QuantityMax": 25,
+            "m_Items": [
+                {
+                    "m_Item": "PNC_W_Fal",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_M200Cheytac",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Fal_PlasticHndgrd",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Fal_Compensator_2",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_PKP",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Fal_Compensator_1",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_SCAR",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_SCARH_20Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_MoreMag_Fal_50Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_M110_Mag",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_M200_Mag",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Mag_VR80_10rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Mag_PKP_200Rnd",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_VR80",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_W_M110",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                },
+                {
+                    "m_Item": "PNC_Suppressor_408Cheytac",
+                    "m_Chance": 50,
+                    "m_StackMin": 0,
+                    "m_QuantityMax": 5,
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ],
+    "m_Messages": {
+        "m_Before": "Novo evento começará em %TimeMinutes% minutos.",
+        "m_After": "O evento foi iniciado em %LocationName%.",
+        "m_Count": "",
+        "m_Claimed": "O evento está em mais de %PercentProgress%% de progresso.",
+        "m_Winner": "Jogador(a) %PlayerName% completou o %LocationName% evento.",
+        "m_Failed": "Evento terminou sem nenhum jogador vitorioso."
+    },
+    "m_NotificationTime": 10,
+    "m_NotificationInterval": 300,
+    "m_NotificationClaimedInChat": 0,
+    "m_Webhook": "https://discord.com/api/webhooks/1083392608509886536/e1qCD-FnP7nvM60Pn2zGyOQ55hIEzjo_X8sKm9QWw8eRGDXytrr4bB7P2D9yyT18ZvFS"
+}

@@ -1,0 +1,10 @@
+{
+    "m_Enable": 0,
+    "m_TimeSpawn": 1,
+    "m_TimeDeath": 1,
+    "m_Steam": [
+        "00000000000000000",
+        "00000000000000000:description",
+        "00000000000000000:player-name"
+    ]
+}

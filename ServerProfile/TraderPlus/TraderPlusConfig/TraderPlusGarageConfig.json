@@ -1,0 +1,50 @@
+{
+    "Version": "2.5",
+    "UseGarageOnlyToTrade": 0,
+    "VehicleMustHaveLock": 1,
+    "SaveVehicleLock": 0,
+    "SaveVehicleCargo": 1,
+    "SaveVehicleHealth": 1,
+    "SaveVehicleFuel": 1,
+    "SavedVehicleInGarageForTradeInHour": 1,
+    "MaxVehicleStored": 5,
+    "ParkInCost": 0,
+    "ParkOutCost": 0,
+    "PayWithBankAccount": 0,
+    "WhitelistedObjects": [],
+    "NPCs": [
+        {
+            "ClassName": "BVM_VendingMachine_garage",
+            "Position": [
+                8099.490723, 458.771973, 9324.855469
+            ],
+            "Orientation": [
+                -49.892006,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                8093.503906,
+                458.677643,
+                9333.384766
+            ],
+            "ParkingOrientation": [
+                44.906921,
+                -3.366225,
+                -0.663269
+            ],
+            "Clothes": []
+        }
+    ],
+    "ParkingNotAvailable": "A área do parque não está disponível!",
+    "NotEnoughMoney": "Você não tem dinheiro suficiente",
+    "NotRightToPark": "Você não tem o direito de estacionar neste veículo!",
+    "CarHasMember": "O carro ainda tem membro dentro!",
+    "ParkInFail": "O carro não conseguiu estacionar corretamente",
+    "ParkInSuccess": "O carro foi estacionado com sucesso",
+    "ParkOutFail": "O carro não conseguiu sair do estacionamento!",
+    "ParkOutSuccess": "O carro conseguiu sair do estacionamento!",
+    "MaxVehicleStoredReached": "Número máximo de veículos alcançado!",
+    "TradeVehicleWarning": "O veículo foi estacionado por %1 hora, após esse ponto ele será perdido, então troque ou retire do estacionamento rapidamente",
+    "TradeVehicleHasBeenDeleted": "O veículo guardado para troca atingiu sua inatividade e foi deletado!"
+}

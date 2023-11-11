@@ -1,0 +1,9 @@
+{
+    "m_Enable": 0,
+    "m_Logging": 1,
+    "m_Zones": [],
+    "m_Filter": [
+        "Land_Misc_Well_Pump_Blue",
+        "Land_Misc_Well_Pump_Yellow"
+    ]
+}

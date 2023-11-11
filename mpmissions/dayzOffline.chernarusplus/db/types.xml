@@ -9779,7 +9779,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-    <type name="ImprovisedExplosive">
+    <!-- <type name="ImprovisedExplosive">
         <nominal>0</nominal>
         <lifetime>432000</lifetime>
         <restock>0</restock>
@@ -9789,7 +9789,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="explosives"/>
-    </type>
+    </type> -->
     <type name="ImprovisedFishingRod">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -10285,7 +10285,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
     </type>
-    <type name="LandMineTrap">
+    <!-- <type name="LandMineTrap">
         <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -10297,7 +10297,7 @@
         <category name="explosives"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-    </type>
+    </type> -->
     <type name="Land_Container_1Aoh_DE">
         <nominal>0</nominal>
         <lifetime>0</lifetime>
@@ -14444,7 +14444,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-    <type name="Plastic_Explosive">
+    <!-- <type name="Plastic_Explosive">
         <nominal>0</nominal>
         <lifetime>432000</lifetime>
         <restock>0</restock>
@@ -14456,7 +14456,7 @@
         <category name="explosives"/>
         <usage name="Industrial"/>
         <value name="Unique"/>
-    </type>
+    </type> -->
     <type name="PlateCarrierHolster">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>

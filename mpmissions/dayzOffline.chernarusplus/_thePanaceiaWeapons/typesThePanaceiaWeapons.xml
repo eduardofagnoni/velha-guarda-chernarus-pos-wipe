@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="PNC_Suppressor_408Cheytac">
-    <nominal>12</nominal>
+  <!-- <type name="PNC_Suppressor_408Cheytac">
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
-    <min>6</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -12,8 +12,8 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier4" />
-  </type>
-  <type name="PNC_Suppressor556mm">
+  </type> -->
+  <!-- <type name="PNC_Suppressor556mm">
     <nominal>7</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -26,8 +26,8 @@
     <usage name="Military" />
     <value name="Tier4" />
     <value name="Tier3" />
-  </type>
-  <type name="PNC_Suppressor556mm_2">
+  </type> -->
+  <!-- <type name="PNC_Suppressor556mm_2">
     <nominal>7</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -40,7 +40,7 @@
     <usage name="Military" />
     <value name="Tier4" />
     <value name="Tier3" />
-  </type>
+  </type> -->
   <type name="PNC_Aurora_Suppressor">
     <nominal>1</nominal>
     <lifetime>10800</lifetime>
@@ -188,7 +188,7 @@
     <usage name="Military" />
     <value name="Tier3" />
   </type>
-  <type name="PNC_W_VSSK_Vychlop">
+  <!-- <type name="PNC_W_VSSK_Vychlop">
     <nominal>16</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -200,7 +200,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier3" />
-  </type>
+  </type> -->
   <type name="PNC_W_M200Cheytac">
     <nominal>14</nominal>
     <lifetime>10800</lifetime>
@@ -767,7 +767,7 @@
     <usage name="Military" />
     <value name="Tier4" />
   </type>
-  <type name="PNC_W_AWM">
+  <!-- <type name="PNC_W_AWM">
     <nominal>7</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -779,7 +779,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier4" />
-  </type>
+  </type> -->
   <!-- <type name="PNC_W_AWM_Sand">
     <nominal>0</nominal>
     <lifetime>10600</lifetime>
@@ -937,7 +937,7 @@
     <value name="Tier4" />
     <value name="Tier3" />
   </type>
-  <type name="AmmoBox_65creedmoor_20rnd">
+  <!-- <type name="AmmoBox_65creedmoor_20rnd">
     <nominal>50</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -952,7 +952,7 @@
     <value name="Tier4" />
     <value name="Tier3" />
     <value name="Tier2" />
-  </type>
+  </type> -->
   <type name="PNC_MoreMag_Val_20RndCoupledClamp">
     <nominal>24</nominal>
     <lifetime>10800</lifetime>
@@ -1290,7 +1290,7 @@
     <value name="Tier3" />
     <value name="Tier2" />
   </type>
-  <type name="PNC_Fal_OeBttstck">
+  <!-- <type name="PNC_Fal_OeBttstck">
     <nominal>4</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1304,7 +1304,7 @@
     <value name="Tier4" />
     <value name="Tier3" />
     <value name="Tier2" />
-  </type>
+  </type> -->
   <type name="PNC_W_G36">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -1493,7 +1493,7 @@
     <usage name="Military" />
     <value name="Tier4" />
   </type>
-  <type name="PNC_HoneyBadger_30Rnd">
+  <!-- <type name="PNC_HoneyBadger_30Rnd">
     <nominal>25</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1508,8 +1508,8 @@
     <value name="Tier4" />
     <value name="Tier3" />
     <value name="Tier2" />
-  </type>
-  <type name="PNC_HoneyBadger_60Rnd">
+  </type> -->
+  <!-- <type name="PNC_HoneyBadger_60Rnd">
     <nominal>18</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1522,8 +1522,8 @@
     <usage name="Military" />
     <value name="Tier4" />
     <value name="Tier3" />
-  </type>
-  <type name="PNC_HoneyBadger_Coupled_60Rnd">
+  </type> -->
+  <!-- <type name="PNC_HoneyBadger_Coupled_60Rnd">
     <nominal>15</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1536,7 +1536,7 @@
     <usage name="Military" />
     <value name="Tier4" />
     <value name="Tier3" />
-  </type>
+  </type> -->
   <type name="PNC_Mag_Ash127_20rnd">
     <nominal>35</nominal>
     <lifetime>10800</lifetime>
@@ -1689,7 +1689,7 @@
     <usage name="Military" />
     <value name="Tier3" />
   </type>
-  <type name="PNC_W_RemingtonACR_Tan">
+  <!-- <type name="PNC_W_RemingtonACR_Tan">
     <nominal>5</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1701,8 +1701,8 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier4" />
-  </type>
-  <type name="PNC_W_RemingtonACR_Black">
+  </type> -->
+  <!-- <type name="PNC_W_RemingtonACR_Black">
     <nominal>5</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>
@@ -1714,7 +1714,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier3" />
-  </type>
+  </type> -->
 
   <type name="PNC_Anzio">
     <nominal>0</nominal>

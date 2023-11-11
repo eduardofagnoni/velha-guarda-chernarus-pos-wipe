@@ -5,107 +5,122 @@
     "m_QuantityMax": 70,
     "m_Items": [
         {
-            "m_Item": "TerritoryFlagKit",
+            "m_Class": "TerritoryFlagKit",
             "m_Chance": 100,
             "m_StackMin": 1,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "MetalWire",
+            "m_Class": "MetalWire",
             "m_Chance": 100,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 2,
             "m_Attachments": []
         },
         {
-            "m_Item": "NailBox",
+            "m_Class": "NailBox",
             "m_Chance": 100,
             "m_StackMin": 0,
-            "m_QuantityMax": 1,
-            "m_Attachments": []
-        },
-        {
-            "m_Item": "Pickaxe",
-            "m_Chance": 100,
-            "m_StackMin": 0,
-            "m_QuantityMax": 1,
-            "m_Attachments": []
-        },
-        {
-            "m_Item": "SledgeHammer",
-            "m_Chance": 100,
-            "m_StackMin": 0,
-            "m_QuantityMax": 1,
-            "m_Attachments": []
-        },
-        {
-            "m_Item": "WoodAxe",
-            "m_Chance": 100,
-            "m_StackMin": 0,
-            "m_QuantityMax": 1,
-            "m_Attachments": []
-        },
-        {
-            "m_Item": "Rope",
-            "m_Chance": 100,
-            "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 2,
             "m_Attachments": []
         },
         {
-            "m_Item": "Stone",
-            "m_Chance": 80,
+            "m_Class": "Pickaxe",
+            "m_Chance": 100,
             "m_StackMin": 0,
+            "m_StackMax": 0,
+            "m_QuantityMax": 3,
+            "m_Attachments": []
+        },
+        {
+            "m_Class": "SledgeHammer",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_StackMax": 0,
+            "m_QuantityMax": 2,
+            "m_Attachments": []
+        },
+        {
+            "m_Class": "WoodAxe",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_StackMax": 0,
+            "m_QuantityMax": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Class": "Rope",
+            "m_Chance": 100,
+            "m_StackMin": 0,
+            "m_StackMax": 0,
+            "m_QuantityMax": 2,
+            "m_Attachments": []
+        },
+        {
+            "m_Class": "Stone",
+            "m_Chance": 100,
+            "m_StackMin": 100,
+            "m_StackMax": 100,
             "m_QuantityMax": 32,
             "m_Attachments": []
         },
         {
-            "m_Item": "Flag_APA",
+            "m_Class": "Flag_APA",
             "m_Chance": 25,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "Flag_Altis",
+            "m_Class": "Flag_Altis",
             "m_Chance": 25,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "Flag_BabyDeer",
+            "m_Class": "Flag_BabyDeer",
             "m_Chance": 25,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "Flag_Bear",
+            "m_Class": "Flag_Bear",
             "m_Chance": 25,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "WoodenLog",
-            "m_Chance": 90,
-            "m_StackMin": 0,
+            "m_Class": "WoodenLog",
+            "m_Chance": 100,
+            "m_StackMin": 100,
+            "m_StackMax": 100,
             "m_QuantityMax": 8,
             "m_Attachments": []
         },
         {
-            "m_Item": "Hatchet",
+            "m_Class": "Hatchet",
             "m_Chance": 100,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         },
         {
-            "m_Item": "HandSaw",
+            "m_Class": "HandSaw",
             "m_Chance": 100,
             "m_StackMin": 0,
+            "m_StackMax": 0,
             "m_QuantityMax": 1,
             "m_Attachments": []
         }

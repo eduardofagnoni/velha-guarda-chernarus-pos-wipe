@@ -15,6 +15,7 @@
         "m_Bury": 0,
         "m_HitBy": 1,
         "m_Killed": 1,
+        "m_Machine": 0,
         "m_Position": 1,
         "m_Restrain": 1,
         "m_Suicide": 1,

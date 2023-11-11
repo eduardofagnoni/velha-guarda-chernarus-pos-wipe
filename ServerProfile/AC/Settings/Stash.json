@@ -127,107 +127,122 @@
             "m_QuantityMax": 10,
             "m_Items": [
                 {
-                    "m_Item": "Apple",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "BandageDressing",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "WaterBottle",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "VitaminBottle",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Tomato",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "PainkillerTablets",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "FirstAidKit",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Rice",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "CharcoalTablets",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "SpaghettiCan",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Canteen",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 4,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "TetracyclineAntibiotics",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "BakedBeansCan",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Heatpack",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "TacticalBaconCan",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 }
@@ -238,116 +253,132 @@
             "m_QuantityMax": 10,
             "m_Items": [
                 {
-                    "m_Item": "Battery9V",
+                    "m_Class": "",
                     "m_Chance": 90,
                     "m_StackMin": 75,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M68Optic",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M68Optic",
+                    "m_Class": "",
                     "m_Chance": 25,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": [
                         "Battery9V"
                     ]
                 },
                 {
-                    "m_Item": "Mag_STANAG_30Rnd",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 50,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Mag_AKM_30Rnd",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 50,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Mag_FAL_20Rnd",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 50,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 3,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M4_RISHndgrd",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "AK_WoodHndgrd",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M4_OEBttstck",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "AK_WoodBttstck",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Fal_FoldingBttstck",
+                    "m_Class": "",
                     "m_Chance": 75,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M4_Suppressor",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "AK_Suppressor",
+                    "m_Class": "",
                     "m_Chance": 50,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "M4A1",
+                    "m_Class": "",
                     "m_Chance": 40,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "AKM",
+                    "m_Class": "",
                     "m_Chance": 30,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "FAL",
+                    "m_Class": "",
                     "m_Chance": 20,
                     "m_StackMin": 0,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 1,
                     "m_Attachments": []
                 }
