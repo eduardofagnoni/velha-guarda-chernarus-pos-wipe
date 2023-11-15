@@ -1621,7 +1621,7 @@
     <usage name="Military" />
     <value name="Tier4" />
   </type>
-  <type name="PNC_Mag_AWM_5Rnd">
+  <!--type name="PNC_Mag_AWM_5Rnd">
     <nominal>35</nominal>
     <lifetime>10800</lifetime>
     <restock>10800</restock>

@@ -21,7 +21,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_HK416"
+                "PNC_W_M60"
             ],
             "bubakinventory": []
         },
@@ -45,7 +45,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_HK416_Mag"
+                "PNC_M60_Mag"
             ],
             "bubakinventory": []
         },
@@ -89,7 +89,7 @@
                 "839.903 2.58845 1204.2"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -268,7 +268,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "Canteen"
+                "NVGoggles"
             ],
             "bubakinventory": []
         },
@@ -288,7 +288,7 @@
                 "818.6 2.3601 1177.64"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -323,7 +323,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "FAL"
+                "PNC_W_Fal"
             ],
             "bubakinventory": []
         },
@@ -347,7 +347,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "Mag_FAL_20Rnd"
+                "PNC_MoreMag_Fal_20RndCoupledClamp"
             ],
             "bubakinventory": []
         },
@@ -415,7 +415,7 @@
                 "785.388 12.1286 1128.62"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -518,7 +518,7 @@
                 "844.136 12.1306 1070.36"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -553,7 +553,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M200"
+                "PNC_W_M200Cheytac"
             ],
             "bubakinventory": []
         },
@@ -577,7 +577,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M200_Mag"
+                "PNC_M200_Mag"
             ],
             "bubakinventory": []
         },
@@ -597,7 +597,7 @@
                 "849.518 12.1255 1062.47"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -632,7 +632,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M249"
+                "PNC_W_SCARH"
             ],
             "bubakinventory": []
         },
@@ -656,7 +656,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M249_Mag"
+                "PNC_SCARH_20Rnd"
             ],
             "bubakinventory": []
         },
@@ -680,7 +680,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M700"
+                "PNC_W_M60"
             ],
             "bubakinventory": []
         },
@@ -704,7 +704,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M700_Mag"
+                "PNC_M60_Mag"
             ],
             "bubakinventory": []
         },
@@ -724,7 +724,7 @@
                 "849.72 2.12858 1058.04"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -759,7 +759,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "SNAFU_AK308"
+                "PNC_W_M110"
             ],
             "bubakinventory": []
         },
@@ -783,7 +783,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "SNAFU_AK308_Mag"
+                "PNC_M110_Mag"
             ],
             "bubakinventory": []
         },
@@ -807,7 +807,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "SNAFU_AWM_Gun"
+                "PNC_W_ORSIST5000"
             ],
             "bubakinventory": []
         },
@@ -831,7 +831,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "SNAFU_AWM_Mag"
+                "PNC_Mag_ORSIST5000_5rnd"
             ],
             "bubakinventory": []
         },
@@ -855,7 +855,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_HK416"
+                "PNC_W_M60"
             ],
             "bubakinventory": []
         },
@@ -879,7 +879,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_HK416_Mag"
+                "PNC_M60_Mag"
             ],
             "bubakinventory": []
         },
@@ -937,7 +937,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "Canteen"
+                "NVGoggles"
             ],
             "bubakinventory": []
         },
@@ -1043,7 +1043,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "MMG_supply_black"
+                "BR_EB_MountainBackpack_Plus"
             ],
             "bubakinventory": []
         },
@@ -1252,7 +1252,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "MMG_supply_black"
+                "BR_EB_MountainBackpack_Plus"
             ],
             "bubakinventory": []
         },
@@ -1276,7 +1276,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "FAL"
+                "PNC_W_Fal"
             ],
             "bubakinventory": []
         },
@@ -1300,7 +1300,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "Mag_FAL_20Rnd"
+                "PNC_MoreMag_Fal_50Rnd"
             ],
             "bubakinventory": []
         },
@@ -1320,7 +1320,7 @@
                 "5468.82 483.568 15126.8"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -1355,7 +1355,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "MMG_supply_black"
+                "BR_EB_HikingBackpack_Plus"
             ],
             "bubakinventory": []
         },
@@ -1423,7 +1423,7 @@
                 "5461.46 488.67 15038.3"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -1533,7 +1533,7 @@
                 "5461.06 533.641 15018"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 4,
+            "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -1568,7 +1568,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M200"
+                "PNC_W_M200Cheytac"
             ],
             "bubakinventory": []
         },
@@ -1592,7 +1592,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M200_Mag"
+                "PNC_M200_Mag"
             ],
             "bubakinventory": []
         },
@@ -1616,7 +1616,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M249"
+                "PNC_W_PKP"
             ],
             "bubakinventory": []
         },
@@ -1640,7 +1640,7 @@
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
-                "GCGN_M249_Mag"
+                "PNC_Mag_PKP_200Rnd"
             ],
             "bubakinventory": []
         }
