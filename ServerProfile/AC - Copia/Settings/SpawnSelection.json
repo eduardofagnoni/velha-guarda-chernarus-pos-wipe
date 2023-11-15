@@ -1,0 +1,77 @@
+{
+    "m_Enable": 1,
+    "m_Logging": 1,
+    "m_ShowMapZone": 1,
+    "m_Positions": [
+        {
+            "m_D": "Chernogorsk",
+            "m_X": 7308.740234375,
+            "m_Y": 3653.56005859375,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Elektrozavodsk",
+            "m_X": 10022.08984375,
+            "m_Y": 2456.110107421875,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Kamyshovo",
+            "m_X": 11901.7998046875,
+            "m_Y": 3708.429931640625,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Solnechny",
+            "m_X": 13090.2900390625,
+            "m_Y": 6420.97021484375,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Berezino",
+            "m_X": 12438.7900390625,
+            "m_Y": 10039.7001953125,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Svetloyarsk",
+            "m_X": 13881.2001953125,
+            "m_Y": 12977.7001953125,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Komarovo",
+            "m_X": 3329.85009765625,
+            "m_Y": 2479.469970703125,
+            "m_R": 100.0
+        },
+        {
+            "m_D": "Kamenka",
+            "m_X": 1659.6500244140626,
+            "m_Y": 2335.8701171875,
+            "m_R": 100.0
+        }
+    ],
+    "m_Priority": [
+        {
+            "m_Steam": [
+                "76561198363861269"
+            ],
+            "m_Positions": [
+                {
+                    "m_D": "Berezino",
+                    "m_X": 12438.7900390625,
+                    "m_Y": 10039.7001953125,
+                    "m_R": 100.0
+                }
+            ]
+        }
+    ],
+    "m_BlockDistance": 1000,
+    "m_BlockDistanceTime": 120,
+    "m_BlockLastPosition": 0,
+    "m_SpawnProtectionTime": 0,
+    "m_SpawnProtectionBefore": "Você tem %Time% segundos de proteção.",
+    "m_SpawnProtectionAfter": "Sua proteção acabou",
+    "m_Blacklist": []
+}

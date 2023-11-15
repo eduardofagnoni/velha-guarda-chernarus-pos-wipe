@@ -117,12 +117,12 @@
 	<type name="SmallStone">
 		<damage min="0.0" max="0.0" />
 	</type>
-	<type name="Ammo_40mm_Explosive">
+	<!-- <type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="Ammo_40mm_POX">
+	</type> -->
+	<!-- <type name="Ammo_40mm_POX">
 		<damage min="0.0" max="0.35" />
-	</type>
+	</type> -->
 	<type name="AssaultBag_Ttsko">
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
@@ -372,7 +372,7 @@
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<!-- <cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
@@ -382,7 +382,7 @@
 		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo> -->
 		
 	</type>
 	

@@ -1,0 +1,28 @@
+{
+    "m_Enable": 0,
+    "m_ShowOnMap": 1,
+    "m_TimeDelay": 0,
+    "m_InvertZones": 0,
+    "m_Zones": [
+        {
+            "m_Name": "GM",
+            "m_Icon": "",
+            "m_Color": {
+                "m_A": 0,
+                "m_R": 0,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Positions": [],
+            "m_IsActive": 0,
+            "m_3DMarker": 0
+        }
+    ],
+    "m_Messages": {
+        "m_Enter": "You just entered a PVE zone.",
+        "m_Time": "You are leaving the zone in %TimeSeconds% seconds.",
+        "m_Exit": "You just left a PVE zone."
+    },
+    "m_NotificationTime": 10,
+    "m_NotificationInChat": 0
+}

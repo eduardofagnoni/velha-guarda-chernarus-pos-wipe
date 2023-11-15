@@ -1,0 +1,45 @@
+{
+    "m_Enable": 0,
+    "m_Creatures": [
+        {
+            "m_Class": [
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_MotobikerFat_Blue"
+            ],
+            "m_Interval": 10,
+            "m_Quantity": 5,
+            "m_Positions": [
+                {
+                    "m_D": "Airfiled",
+                    "m_X": 4625.677734375,
+                    "m_Y": 10341.076171875,
+                    "m_R": 10.0
+                },
+                {
+                    "m_D": "Airfiled",
+                    "m_X": 4640.60498046875,
+                    "m_Y": 10285.4619140625,
+                    "m_R": 10.0
+                }
+            ]
+        },
+        {
+            "m_Class": [
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Blue"
+            ],
+            "m_Interval": 10,
+            "m_Quantity": 10,
+            "m_Positions": [
+                {
+                    "m_D": "Airfiled",
+                    "m_X": 4674.279296875,
+                    "m_Y": 10297.2421875,
+                    "m_R": 10.0
+                }
+            ]
+        }
+    ]
+}

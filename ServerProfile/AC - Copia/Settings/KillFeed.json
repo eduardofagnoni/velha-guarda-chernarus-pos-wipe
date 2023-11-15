@@ -1,0 +1,66 @@
+{
+    "m_Enable": 1,
+    "m_Logging": 1,
+    "m_TimeDelay": 0,
+    "m_WeaponPreview": 0,
+    "m_HistoricCount": 10,
+    "m_NotificationCount": 5,
+    "m_NotificationTime": 5,
+    "m_NotificationInChat": 1,
+    "m_PlayerNameLength": 20,
+    "m_WeaponNameLength": 20,
+    "m_Colors": {
+        "m_Active": {
+            "m_A": 50,
+            "m_R": 255,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Background": {
+            "m_A": 50,
+            "m_R": 0,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Default": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 255,
+            "m_B": 255
+        },
+        "m_Head": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 204,
+            "m_B": 0
+        },
+        "m_Killer": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 179,
+            "m_B": 0
+        },
+        "m_Victim": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 26,
+            "m_B": 26
+        }
+    },
+    "m_Messages": {
+        "m_Animal": "%VictimInfo% morto por %KillerInfo%.",
+        "m_Bleeding": "%VictimInfo% morreu sangrando.",
+        "m_Custom": "%VictimInfo% morto por %KillerInfo%.",
+        "m_Died": "%VictimInfo% morreu.",
+        "m_Energy": "%VictimInfo% morreu de fome.",
+        "m_Grenade": "%VictimInfo% morto por %KillerInfo% com %WeaponName%.",
+        "m_Melee": "%VictimInfo% morto por %KillerInfo% com %WeaponName%.",
+        "m_Player": "%VictimInfo% morto por %KillerInfo%.",
+        "m_Suicide": "%VictimInfo% se matou.",
+        "m_Trap": "%VictimInfo% morto por %KillerInfo% com %WeaponName%.",
+        "m_Water": "%VictimInfo% morreu de sede.",
+        "m_Weapon": "%VictimInfo% foi morto por %KillerInfo% com %WeaponName% de %KillRange% metros.",
+        "m_Zombie": "%VictimInfo% foi morto por zumbi."
+    },
+    "m_Webhook": "https://discord.com/api/webhooks/1073062411776565340/y7oyUOR2BFLSUFu0-vwCad95jtAg7NwXW-SoQKEM6xJgghufJ9JguCWBQzYUAr2dJ59l"
+}

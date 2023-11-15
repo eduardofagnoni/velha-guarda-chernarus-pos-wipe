@@ -8,16 +8,18 @@
             "m_QuantityMax": 8,
             "m_Items": [
                 {
-                    "m_Item": "Radioactive_bear_pelt",
+                    "m_Class": "",
                     "m_Chance": 100,
                     "m_StackMin": 2,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 2,
                     "m_Attachments": []
                 },
                 {
-                    "m_Item": "Radioactive_bear_Meat",
+                    "m_Class": "",
                     "m_Chance": 100,
                     "m_StackMin": 5,
+                    "m_StackMax": 0,
                     "m_QuantityMax": 5,
                     "m_Attachments": []
                 }

@@ -1,0 +1,26 @@
+{
+    "m_Enable": 1,
+    "m_ServerLogo": 1,
+    "m_Description": "BEM VINDO AO SERVIDOR VELHA GUARDA",
+    "m_Tabs": [
+        {
+            "m_TabLabel": "LEIA COM ATENÇÃO",
+            "m_TabLines": [
+                "SÓ ATIRE EM OUTRO JOGADOR NAS ÁRES PERMITIDAS.",
+                "NÃO ATIRE NOS VEICULOS.",
+                "CONSULTE AS REGRAS DE CONSTRUÇÃO NO DISCORD.",
+                "NÃO MEXA NO QUE NÃO É SEU."
+            ]
+        }
+    ],
+    "m_Buttons": [
+        {
+            "m_ButtonText": "DISCORD",
+            "m_ButtonLink": "https://discord.gg/gHPvcZTtAb"
+        },
+        {
+            "m_ButtonText": "NOSSO WEBSITE",
+            "m_ButtonLink": "https://velhaguarda-dayz.com.br"
+        }
+    ]
+}

@@ -5,9 +5,9 @@
     "m_Lines": 12,
     "m_Timeout": 20,
     "m_Logging": 1,
-    "m_Commands": 1,
     "m_Waiting": 0,
     "m_Distance": 50,
+    "m_Identity": 1,
     "m_Color": {
         "m_A": 255,
         "m_R": 255,

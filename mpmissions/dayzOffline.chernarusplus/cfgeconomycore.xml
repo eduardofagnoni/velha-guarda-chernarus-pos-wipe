@@ -35,10 +35,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 
-	<!-- Barracas Velha Guarda -->
-	<!-- <ce folder="_barracasVelhaGuarda">
-        <file name="typesBarracasVelhaGuarda.xml" type="types"/>
-	</ce> -->
+	<!-- Trader Plus -->
+	<ce folder="_TraderPlus_ce">
+		<file name="TraderPlus_types.xml" type="types" />
+	</ce>
+
 	<!-- Barrils de fogo -->
 	<ce folder="_barrilsDeFofo">
         <file name="typesBarrilDeFogo.xml" type="types"/>
@@ -63,6 +64,16 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<!-- AC_mod_pack -->
 	<ce folder="_AC_MOD_PACK">
         <file name="types.xml" type="types"/>
+	</ce>
+
+	<!-- Dodge_rust -->
+	<ce folder="_Dodge_rust">
+        <file name="types.xml" type="types"/>
+	</ce>
+
+	<!-- Underground base -->
+	<ce folder="_UndergroundBase">
+        <file name="UGBTypes.xml" type="types"/>
 	</ce>
 
 

@@ -1,0 +1,46 @@
+{
+    "m_Enable": 1,
+    "m_ShowOnMap": 0,
+    "m_TimeDelay": 10,
+    "m_Zones": [
+        {
+            "m_Name": "Safes Zones",
+            "m_Icon": "",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 8085.521484375,
+                    "m_Y": 463.8623962402344,
+                    "m_Z": 9321.0263671875,
+                    "m_R": 100.0
+                },
+                {
+                    "m_X": 10813.0341796875,
+                    "m_Y": 340.146240234375,
+                    "m_Z": 12841.62109375,
+                    "m_R": 100.0
+                },
+                {
+                    "m_X": 4088.33203125,
+                    "m_Y": 383.9129943847656,
+                    "m_Z": 11736.466796875,
+                    "m_R": 70.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 0
+        }
+    ],
+    "m_Messages": {
+        "m_Enter": "Você acabou de entrar em uma zona segura.",
+        "m_Time": "Você sairá da zona em %TimeSeconds% segundos.",
+        "m_Exit": "Você acabou de sair de uma zona segura."
+    },
+    "m_NotificationTime": 10,
+    "m_NotificationInChat": 0
+}

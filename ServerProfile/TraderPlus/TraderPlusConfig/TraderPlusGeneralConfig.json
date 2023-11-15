@@ -1,0 +1,224 @@
+{
+    "Version": "2.5",
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 0,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 1,
+    "IsReceiptTraderOnly": 0,
+    "IsReceiptSaveLock": 1,
+    "IsReceiptSaveAttachment": 1,
+    "IsReceiptSaveCargo": 1,
+    "LockPickChance": 0.30000001192092898,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "Real_200",
+            "Value": 200
+        },
+        {
+            "ClassName": "Real_100",
+            "Value": 100
+        },
+        {
+            "ClassName": "Real_50",
+            "Value": 50
+        },
+        {
+            "ClassName": "Real_20",
+            "Value": 20
+        },
+        {
+            "ClassName": "Real_10",
+            "Value": 10
+        },
+        {
+            "ClassName": "Real_5",
+            "Value": 5
+        },
+        {
+            "ClassName": "Real_2",
+            "Value": 2
+        },
+        {
+            "ClassName": "Real_1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "BVM_VendingMachine_clothing",
+            "GivenName": "Vestimentas",
+            "Role": "Vestimentas",
+            "Position": [
+                8074.358887, 459.189331, 9307.281250
+            ],
+            "Orientation": [
+                125.611069, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Medicamentos",
+            "Role": "Medicamentos",
+            "Position": [
+                8079.349121, 459.189545, 9307.896484 
+            ],
+            "Orientation": [
+                38.951485, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 2,
+            "Name": "BVM_VendingMachine_food",
+            "GivenName": "Consumiveis",
+            "Role": "Consumiveis",
+            "Position": [
+                8078.091309, 459.196106, 9309.638672 
+            ],
+            "Orientation": [
+                62.998062, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_weapons",
+            "GivenName": "Armas",
+            "Role": "Armas",
+            "Position": [
+                8075.237793, 459.172424, 9311.031250
+            ],
+            "Orientation": [
+                -62.706821, 0.000000, 0.000000	
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 4,
+            "Name": "BVM_VendingMachine_ammunition",
+            "GivenName": "Munição",
+            "Role": "Munição",
+            "Position": [
+                8071.909180, 459.199249, 9309.383789 
+            ],
+            "Orientation": [
+                35.998814, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 5,
+            "Name": "BVM_VendingMachine_attachments",
+            "GivenName": "Acessórios",
+            "Role": "Acessórios",
+            "Position": [
+                8070.180664, 459.194519, 9311.348633 
+            ],
+            "Orientation": [
+                54.000389, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 6,
+            "Name": "BVM_VendingMachine_melee",
+            "GivenName": "Armas Melee",
+            "Role": "Armas Melee",
+            "Position": [
+                8077.508301, 459.205597, 9313.626953  
+            ],
+            "Orientation": [
+                -48.680332, 0.000000, 0.000000	
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 7,
+            "Name": "BVM_VendingMachine_tools",
+            "GivenName": "Ferramentas",
+            "Role": "Ferramentas",
+            "Position": [
+                8068.904785, 459.202545, 9317.020508  
+            ],
+            "Orientation": [
+                44.998825, 0.000000, -0.000000	
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 8,
+            "Name": "BVM_VendingMachine_building",
+            "GivenName": "Construção",
+            "Role": "Construção",
+            "Position": [
+                8069.095703, 459.184662, 9320.989258  
+            ],
+            "Orientation": [
+                153.000702, 0.000000, -0.000000	
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 9,
+            "Name": "BVM_VendingMachine_hunting",
+            "GivenName": "Caçador",
+            "Role": "Caçador",
+            "Position": [
+                10812.345703, 335.837219, 12839.896484
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 10,
+            "Name": "BVM_VendingMachine_blackmarket",
+            "GivenName": "Contrabandista",
+            "Role": "Contrabandista",
+            "Position": [
+                4086.450928, 379.569122, 11736.596680
+            ],
+            "Orientation": [
+                62.998062, 0.000000, -0.000000	
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 11,
+            "Name": "BVM_VendingMachine_vehicles",
+            "GivenName": "Veiculos",
+            "Role": "Veiculos",
+            "Position": [
+                8101.472656, 458.670868, 9327.210938 
+            ],
+            "Orientation": [
+                -49.153957, 0.000000, 0.000000
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": []
+}
