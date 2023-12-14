@@ -3,16 +3,30 @@
     "IsHideOutActive": 1,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 30,
-    "MsgEnterZone": "You Have Entered The Safe Zone!",
-    "MsgExitZone": "You Have Left The Safe Zone!",
-    "MsgOnLeavingZone": "You're leaving the safezone in:",
-    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "MsgEnterZone": "Você entrou na zona segura!",
+    "MsgExitZone": "Você saiu da zona segura!",
+    "MsgOnLeavingZone": "Você está saindo da zona segura em:",
+    "MustRemoveArmband": "Você deve remover sua braçadeira para que seu estoque apareça!",
     "SafeAreaLocation": [
         {
             "SafeZoneStatut": "Trader",
-            "X": 11595.0,
-            "Y": 14392.0,
-            "Radius": 150.0,
+            "X": 8085.521484375,
+            "Y": 463.8623962402344,
+            "Radius": 100.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 10813.0341796875,
+            "Y": 340.146240234375,
+            "Radius": 100.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 4088.33203125,
+            "Y": 383.9129943847656,
+            "Radius": 70.0,
             "Countdown": 30
         }
     ],
